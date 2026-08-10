@@ -1,0 +1,115 @@
+feedback_id,customer_id,date,feedback,category
+FB-0001,CUST-0107,2024-06-22,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0002,CUST-0009,2024-11-18,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0003,CUST-0043,2024-12-16,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0004,CUST-0057,2024-11-16,"Average experience overall, delivery was on time though.",neutral
+FB-0005,CUST-0049,2024-09-29,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0006,CUST-0014,2024-03-11,"Average experience overall, delivery was on time though.",neutral
+FB-0007,CUST-0023,2024-07-07,"Love the office chair, very comfortable for long work hours.",positive
+FB-0008,CUST-0065,2024-03-12,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint
+FB-0009,CUST-0087,2024-10-17,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0010,CUST-0086,2024-07-18,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0011,CUST-0081,2024-11-14,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0012,CUST-0081,2024-08-15,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0013,CUST-0002,2024-05-11,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0014,CUST-0027,2024-04-27,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0015,CUST-0041,2024-10-27,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0016,CUST-0031,2024-04-18,"Great customer support, they resolved my issue within minutes.",positive
+FB-0017,CUST-0047,2024-03-28,"Average experience overall, delivery was on time though.",neutral
+FB-0018,CUST-0048,2024-12-27,"Average experience overall, delivery was on time though.",neutral
+FB-0019,CUST-0041,2024-03-26,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0020,CUST-0002,2024-12-21,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0021,CUST-0104,2024-04-04,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0022,CUST-0115,2024-05-27,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0023,CUST-0074,2024-11-11,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0024,CUST-0033,2024-11-08,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0025,CUST-0055,2024-01-17,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0026,CUST-0110,2024-02-09,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0027,CUST-0072,2024-07-16,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0028,CUST-0084,2024-09-20,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint
+FB-0029,CUST-0085,2024-09-03,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0030,CUST-0118,2024-12-05,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0031,CUST-0079,2024-02-10,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0032,CUST-0013,2024-10-10,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0033,CUST-0061,2024-10-04,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0034,CUST-0111,2024-10-27,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0035,CUST-0016,2024-06-06,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0036,CUST-0007,2024-04-10,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0037,CUST-0007,2024-11-12,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0038,CUST-0009,2024-02-17,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0039,CUST-0020,2024-01-31,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0040,CUST-0093,2024-06-12,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0041,CUST-0072,2024-12-01,"The product is okay, does what it says but nothing special.",neutral
+FB-0042,CUST-0088,2024-06-07,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0043,CUST-0067,2024-08-25,"Great customer support, they resolved my issue within minutes.",positive
+FB-0044,CUST-0043,2024-07-06,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint
+FB-0045,CUST-0095,2024-11-08,"Great customer support, they resolved my issue within minutes.",positive
+FB-0046,CUST-0021,2024-09-05,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0047,CUST-0044,2024-09-26,"Love the office chair, very comfortable for long work hours.",positive
+FB-0048,CUST-0050,2024-02-12,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0049,CUST-0082,2024-10-19,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0050,CUST-0092,2024-02-04,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint
+FB-0051,CUST-0069,2024-01-22,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0052,CUST-0073,2024-02-23,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0053,CUST-0034,2024-07-03,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0054,CUST-0072,2024-11-10,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0055,CUST-0102,2024-02-11,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0056,CUST-0053,2024-12-21,"The product is okay, does what it says but nothing special.",neutral
+FB-0057,CUST-0091,2024-09-16,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0058,CUST-0061,2024-07-22,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0059,CUST-0062,2024-12-06,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0060,CUST-0073,2024-05-06,"Love the office chair, very comfortable for long work hours.",positive
+FB-0061,CUST-0017,2024-12-07,"Love the office chair, very comfortable for long work hours.",positive
+FB-0062,CUST-0026,2024-01-02,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0063,CUST-0022,2024-06-24,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0064,CUST-0065,2024-04-03,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0065,CUST-0081,2024-01-09,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0066,CUST-0085,2024-07-10,"Love the office chair, very comfortable for long work hours.",positive
+FB-0067,CUST-0026,2024-09-27,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0068,CUST-0041,2024-11-01,"Average experience overall, delivery was on time though.",neutral
+FB-0069,CUST-0018,2024-01-03,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0070,CUST-0079,2024-01-12,"Great customer support, they resolved my issue within minutes.",positive
+FB-0071,CUST-0051,2024-08-25,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0072,CUST-0033,2024-04-11,The fabric on the hoodie started fraying after just two washes.,product_complaint
+FB-0073,CUST-0027,2024-01-03,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0074,CUST-0114,2024-09-03,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0075,CUST-0058,2024-03-13,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0076,CUST-0119,2024-03-06,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0077,CUST-0039,2024-05-29,"The product is okay, does what it says but nothing special.",neutral
+FB-0078,CUST-0026,2024-08-09,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0079,CUST-0086,2024-01-09,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0080,CUST-0110,2024-05-18,My order arrived over a week late and there was no update on tracking.,delivery_complaint
+FB-0081,CUST-0020,2024-01-15,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0082,CUST-0104,2024-05-21,"Great customer support, they resolved my issue within minutes.",positive
+FB-0083,CUST-0071,2024-02-02,"The keyboard stopped working within a week of purchase, poor build quality.",product_complaint
+FB-0084,CUST-0109,2024-11-11,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0085,CUST-0114,2024-09-28,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0086,CUST-0052,2024-04-08,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0087,CUST-0113,2024-06-29,"The product is okay, does what it says but nothing special.",neutral
+FB-0088,CUST-0022,2024-07-06,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0089,CUST-0054,2024-02-09,"Really happy with the standing desk, sturdy and easy to assemble.",positive
+FB-0090,CUST-0054,2024-01-11,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0091,CUST-0030,2024-11-17,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0092,CUST-0059,2024-04-05,"Average experience overall, delivery was on time though.",neutral
+FB-0093,CUST-0091,2024-08-28,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0094,CUST-0014,2024-01-09,"Great customer support, they resolved my issue within minutes.",positive
+FB-0095,CUST-0058,2024-06-17,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0096,CUST-0064,2024-08-23,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0097,CUST-0024,2024-08-21,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0098,CUST-0078,2024-04-28,"It's fine for the price, wouldn't call it premium quality.",neutral
+FB-0099,CUST-0031,2024-10-20,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0100,CUST-0069,2024-09-14,"The product is okay, does what it says but nothing special.",neutral
+FB-0101,CUST-0069,2024-06-20,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0102,CUST-0090,2024-01-29,"Product arrived damaged, the monitor screen had a crack on delivery.",product_complaint
+FB-0103,CUST-0113,2024-09-18,"Love the office chair, very comfortable for long work hours.",positive
+FB-0104,CUST-0112,2024-02-26,Extremely disappointed — delivery was supposed to be 3 days but took 2 weeks.,delivery_complaint
+FB-0105,CUST-0061,2024-07-08,"The package took forever to arrive, courier kept postponing the delivery date.",delivery_complaint
+FB-0106,CUST-0032,2024-08-30,"Fast delivery and well packaged, very satisfied with the purchase.",positive
+FB-0107,CUST-0030,2024-08-16,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint
+FB-0108,CUST-0095,2024-11-13,"The monitor exceeded my expectations, crisp display and great value.",positive
+FB-0109,CUST-0092,2024-06-18,"Excellent product quality and fast shipping, will definitely order again!",positive
+FB-0110,CUST-0096,2024-07-24,"Not satisfied with the chair, it wobbles and the armrest is loose.",product_complaint
+FB-0111,CUST-0101,2024-09-07,"The product is okay, does what it says but nothing special.",neutral
+FB-0112,CUST-0068,2024-08-20,The shipment got stuck at the local hub for days before finally being delivered.,delivery_complaint
+FB-0113,CUST-0108,2024-12-31,"Delivery was delayed by 10 days, very frustrating experience with no communication.",delivery_complaint
+FB-0114,CUST-0079,2024-01-05,"Late delivery again for the third time this month, please fix your logistics.",delivery_complaint

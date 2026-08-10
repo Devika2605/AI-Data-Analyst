@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #f7f8fa;
+  color: #111318;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.card {
+  @apply bg-white border border-ink-300/40 rounded-xl shadow-card;
+}
+
+.btn-primary {
+  @apply inline-flex items-center gap-2 bg-brand-600 text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-brand-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center gap-2 bg-white text-ink-700 text-sm font-medium px-4 py-2 rounded-lg border border-ink-300/60 hover:bg-surface-muted transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.badge {
+  @apply inline-flex items-center gap-1 text-xs font-medium px-2 py-0.5 rounded-full;
+}

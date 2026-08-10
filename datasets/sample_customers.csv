@@ -1,0 +1,121 @@
+customer_id,customer_name,segment,region
+CUST-0001,Kiara Singh,Consumer,West
+CUST-0002,Saanvi Bose,Corporate,South
+CUST-0003,Rohan Kapoor,Corporate,North
+CUST-0004,Zara Nair,Corporate,South
+CUST-0005,Aarav Gupta,Corporate,West
+CUST-0006,Ananya Bose,Consumer,South
+CUST-0007,Arjun Sharma,Consumer,West
+CUST-0008,Kabir Chopra,Consumer,East
+CUST-0009,Aditya Kapoor,Consumer,East
+CUST-0010,Vivaan Mehta,Consumer,North
+CUST-0011,Zara Gupta,Small Business,East
+CUST-0012,Diya Gupta,Corporate,South
+CUST-0013,Tara Nair,Consumer,West
+CUST-0014,Kiara Rao,Consumer,North
+CUST-0015,Kabir Mehta,Small Business,North
+CUST-0016,Rohan Patel,Consumer,East
+CUST-0017,Meera Menon,Small Business,East
+CUST-0018,Vihaan Kapoor,Corporate,West
+CUST-0019,Tara Singh,Corporate,East
+CUST-0020,Diya Menon,Small Business,South
+CUST-0021,Kabir Nair,Corporate,South
+CUST-0022,Zara Iyer,Corporate,South
+CUST-0023,Zara Singh,Consumer,East
+CUST-0024,Vivaan Sharma,Small Business,East
+CUST-0025,Kabir Sharma,Consumer,South
+CUST-0026,Aditya Mehta,Small Business,North
+CUST-0027,Kiara Rao,Consumer,East
+CUST-0028,Vihaan Bose,Consumer,North
+CUST-0029,Zara Singh,Corporate,North
+CUST-0030,Kabir Mehta,Small Business,South
+CUST-0031,Ananya Mehta,Consumer,West
+CUST-0032,Ishaan Nair,Small Business,South
+CUST-0033,Kiara Sharma,Corporate,East
+CUST-0034,Vivaan Iyer,Corporate,North
+CUST-0035,Kiara Das,Corporate,South
+CUST-0036,Arjun Nair,Small Business,West
+CUST-0037,Tara Reddy,Consumer,West
+CUST-0038,Kabir Sharma,Consumer,East
+CUST-0039,Rohan Chopra,Consumer,West
+CUST-0040,Saanvi Iyer,Consumer,South
+CUST-0041,Meera Gupta,Consumer,North
+CUST-0042,Kiara Bose,Small Business,North
+CUST-0043,Aditya Mehta,Small Business,North
+CUST-0044,Kiara Chopra,Consumer,West
+CUST-0045,Tara Singh,Corporate,West
+CUST-0046,Aarav Kapoor,Consumer,North
+CUST-0047,Kabir Verma,Corporate,East
+CUST-0048,Priya Patel,Corporate,North
+CUST-0049,Tara Mehta,Consumer,West
+CUST-0050,Rohan Bose,Small Business,North
+CUST-0051,Saanvi Reddy,Consumer,East
+CUST-0052,Saanvi Patel,Corporate,North
+CUST-0053,Vivaan Sharma,Corporate,East
+CUST-0054,Saanvi Reddy,Consumer,West
+CUST-0055,Rohan Gupta,Consumer,East
+CUST-0056,Priya Iyer,Consumer,South
+CUST-0057,Ishaan Chopra,Corporate,West
+CUST-0058,Ishaan Reddy,Small Business,South
+CUST-0059,Rohan Menon,Corporate,West
+CUST-0060,Ishaan Patel,Consumer,West
+CUST-0061,Kabir Singh,Small Business,South
+CUST-0062,Kabir Singh,Small Business,East
+CUST-0063,Meera Das,Small Business,West
+CUST-0064,Kiara Iyer,Corporate,North
+CUST-0065,Meera Rao,Small Business,North
+CUST-0066,Diya Nair,Consumer,South
+CUST-0067,Aarav Rao,Consumer,North
+CUST-0068,Zara Verma,Consumer,West
+CUST-0069,Ishaan Menon,Consumer,West
+CUST-0070,Kiara Nair,Consumer,South
+CUST-0071,Aarav Das,Consumer,South
+CUST-0072,Aarav Gupta,Corporate,East
+CUST-0073,Kabir Bose,Consumer,South
+CUST-0074,Vivaan Singh,Corporate,North
+CUST-0075,Meera Verma,Consumer,East
+CUST-0076,Zara Chopra,Corporate,East
+CUST-0077,Kabir Menon,Consumer,North
+CUST-0078,Rohan Bose,Consumer,West
+CUST-0079,Kiara Patel,Small Business,East
+CUST-0080,Ananya Iyer,Corporate,West
+CUST-0081,Rohan Iyer,Small Business,West
+CUST-0082,Vihaan Bose,Corporate,East
+CUST-0083,Priya Patel,Corporate,South
+CUST-0084,Aarav Iyer,Consumer,South
+CUST-0085,Ishaan Bose,Corporate,East
+CUST-0086,Kiara Singh,Consumer,North
+CUST-0087,Rohan Patel,Small Business,North
+CUST-0088,Aarav Reddy,Small Business,East
+CUST-0089,Kiara Rao,Small Business,West
+CUST-0090,Priya Nair,Consumer,West
+CUST-0091,Tara Sharma,Consumer,West
+CUST-0092,Kiara Bose,Consumer,North
+CUST-0093,Rohan Mehta,Consumer,South
+CUST-0094,Vihaan Patel,Corporate,South
+CUST-0095,Kabir Gupta,Corporate,East
+CUST-0096,Kabir Kapoor,Consumer,East
+CUST-0097,Aarav Sharma,Small Business,North
+CUST-0098,Tara Reddy,Corporate,East
+CUST-0099,Vihaan Sharma,Consumer,East
+CUST-0100,Arjun Verma,Corporate,West
+CUST-0101,Ishaan Menon,Small Business,East
+CUST-0102,Vivaan Singh,Consumer,North
+CUST-0103,Tara Rao,Corporate,West
+CUST-0104,Vivaan Mehta,Corporate,North
+CUST-0105,Ishaan Bose,Corporate,North
+CUST-0106,Saanvi Reddy,Consumer,West
+CUST-0107,Aarav Patel,Corporate,South
+CUST-0108,Ananya Das,Corporate,East
+CUST-0109,Zara Reddy,Small Business,North
+CUST-0110,Arjun Mehta,Small Business,East
+CUST-0111,Meera Kapoor,Consumer,South
+CUST-0112,Vihaan Bose,Corporate,West
+CUST-0113,Kiara Iyer,Small Business,East
+CUST-0114,Ishaan Menon,Small Business,West
+CUST-0115,Ananya Sharma,Consumer,West
+CUST-0116,Rohan Kapoor,Consumer,West
+CUST-0117,Tara Chopra,Corporate,North
+CUST-0118,Saanvi Iyer,Consumer,West
+CUST-0119,Zara Rao,Corporate,East
+CUST-0120,Zara Chopra,Small Business,South

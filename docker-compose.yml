@@ -1,0 +1,43 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: ai-data-analyst-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - LLM_PROVIDER=${LLM_PROVIDER:-none}
+      - LLM_API_KEY=${LLM_API_KEY:-}
+      - LLM_MODEL=${LLM_MODEL:-claude-sonnet-4-6}
+      - LLM_BASE_URL=${LLM_BASE_URL:-}
+      - MAX_UPLOAD_SIZE_MB=${MAX_UPLOAD_SIZE_MB:-50}
+      - CORS_ORIGINS=${CORS_ORIGINS:-http://localhost:5173,http://localhost:80,http://localhost}
+      - DATABASE_PATH=/app/storage/app.db
+      - CHROMA_PATH=/app/storage/chroma
+      - CACHE_ENABLED=${CACHE_ENABLED:-true}
+      - SEMANTIC_SEARCH_ENABLED=${SEMANTIC_SEARCH_ENABLED:-true}
+    volumes:
+      - backend_storage:/app/storage
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: ai-data-analyst-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  backend_storage:

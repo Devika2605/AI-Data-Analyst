@@ -1,0 +1,1126 @@
+order_id,date,customer_id,customer_name,region,category,product,quantity,sales,profit
+ORD-00575,2024-05-30,CUST-0002,Saanvi Bose,North,Apparel,Cap,3,118.09,33.15
+ORD-01041,2024-07-01,CUST-0115,Ananya Sharma,West,Office Supplies,Stapler,10,190.82,15.59
+ORD-01038,2024-08-24,CUST-0108,Ananya Das,South,Furniture,Office Chair,4,577.96,-19.93
+ORD-00654,2024-09-02,CUST-0034,Vivaan Iyer,North,Furniture,Standing Desk,1,242.06,78.62
+ORD-00777,2024-03-17,CUST-0074,Vivaan Singh,South,Office Supplies,Notebook Pack,1,11.17,0.34
+ORD-00736,2024-06-17,CUST-0114,Ishaan Menon,West,Office Supplies,Pen Set,8,111.11,11.01
+ORD-00272,2024-10-09,CUST-0079,Kiara Patel,South,Furniture,Standing Desk,6,1433.71,70.51
+ORD-00433,2024-07-31,CUST-0072,Aarav Gupta,North,Office Supplies,Pen Set,9,190.53,2.73
+ORD-00593,2024-06-11,CUST-0034,Vivaan Iyer,South,Electronics,Mechanical Keyboard,3,303.68,6.53
+ORD-00069,2024-12-03,CUST-0113,Kiara Iyer,West,Furniture,Bookshelf,7,1933.46,195.87
+ORD-00454,2024-09-09,CUST-0001,Kiara Singh,West,Electronics,USB-C Hub,7,687.12,52.08
+ORD-00716,2024-01-23,CUST-0107,Aarav Patel,North,Office Supplies,Pen Set,6,69.2,13.28
+ORD-00459,2024-11-03,CUST-0012,Diya Gupta,North,Furniture,Filing Cabinet,3,576.61,58.61
+ORD-00590,2024-01-19,CUST-0032,Ishaan Nair,East,Electronics,Wireless Mouse,7,580.06,38.96
+ORD-00454,2024-09-09,CUST-0001,Kiara Singh,West,Electronics,USB-C Hub,7,687.12,52.08
+ORD-00427,2024-01-04,CUST-0036,Arjun Nair,West,Electronics,Wireless Mouse,2,141.5,29.25
+ORD-00233,2024-06-15,CUST-0110,Arjun Mehta,East,Electronics,Webcam,2,98.77,32.35
+ORD-00813,2024-01-14,CUST-0043,Aditya Mehta,South,Electronics,Webcam,2,85.89,27.21
+ORD-01020,2024-11-18,CUST-0115,Ananya Sharma,North,Electronics,USB-C Hub,2,206.56,-4.6
+ORD-00860,2024-11-30,CUST-0073,Kabir Bose,West,Apparel,T-Shirt,5,150.97,24.78
+ORD-00978,2024-06-14,CUST-0003,Rohan Kapoor,South,Furniture,Filing Cabinet,4,1043.16,293.83
+ORD-00282,2024-01-01,CUST-0079,Kiara Patel,West,Office Supplies,Notebook Pack,3,35.04,6.46
+ORD-00312,2024-01-08,CUST-0102,Vivaan Singh,East,Office Supplies,Stapler,2,36.04,12.13
+ORD-00918,2024-12-12,CUST-0096,Kabir Kapoor,South,Furniture,Office Chair,2,434.65,
+ORD-00576,2024-08-15,CUST-0108,Ananya Das,North,Electronics,27in Monitor,3,224.46,26.59
+ORD-00322,2024-06-09,CUST-0008,Kabir Chopra,East,Electronics,Webcam,9,678.61,140.19
+ORD-00183,2024-05-05,CUST-0048,Priya Patel,North,Apparel,Cap,8,243.18,81.97
+ORD-00288,2024-08-31,CUST-0077,Kabir Menon,North,Furniture,Standing Desk,11,1480.91,47.36
+ORD-00526,2024-03-07,CUST-0089,Kiara Rao,East,Office Supplies,Notebook Pack,6,87.02,3.96
+ORD-00224,2024-04-16,CUST-0021,Kabir Nair,South,Office Supplies,Stapler,4,54.06,7.93
+ORD-01044,2024-05-11,CUST-0025,Kabir Sharma,South,Electronics,Wireless Mouse,4,192.64,-2.11
+ORD-00811,2024-12-20,CUST-0046,Aarav Kapoor,North,Furniture,Bookshelf,1,284.83,-13.91
+ORD-00497,2024-07-15,CUST-0014,Kiara Rao,West,Apparel,Hoodie,7,207.93,52.56
+ORD-00718,2024-04-05,CUST-0113,Kiara Iyer,East,Office Supplies,Printer Paper,4,66.8,5.48
+ORD-00433,2024-07-31,CUST-0072,Aarav Gupta,North,Office Supplies,Pen Set,9,190.53,2.73
+ORD-00466,2024-08-28,CUST-0068,Zara Verma,West,Furniture,Bookshelf,1,178.98,1.99
+ORD-00392,2024-01-27,CUST-0008,Kabir Chopra,North,Apparel,Hoodie,6,112.14,2.91
+ORD-00776,2024-02-19,CUST-0091,Tara Sharma,North,Electronics,Mechanical Keyboard,2,133.69,5.33
+ORD-00713,2024-09-15,CUST-0087,Rohan Patel,East,Furniture,Bookshelf,3,410.65,9.34
+ORD-00668,2024-01-20,CUST-0045,Tara Singh,East,Electronics,Wireless Mouse,10,667.1,-1618.71
+ORD-00062,2024-07-21,CUST-0117,Tara Chopra,South,Electronics,USB-C Hub,5,393.48,24.15
+ORD-01067,2024-12-28,CUST-0027,Kiara Rao,South,Electronics,27in Monitor,6,535.41,54.73
+ORD-00756,2024-09-18,CUST-0052,Saanvi Patel,South,Furniture,Standing Desk,6,1609.23,207.52
+ORD-00670,2024-02-23,CUST-0038,Kabir Sharma,West,Furniture,Office Chair,4,613.89,161.5
+ORD-00457,2024-07-20,CUST-0090,Priya Nair,East,Furniture,Filing Cabinet,11,2061.43,239.25
+ORD-00523,2024-01-14,CUST-0084,Aarav Iyer,South,Office Supplies,Stapler,2,20.87,-0.61
+ORD-00236,2024-11-12,CUST-0030,Kabir Mehta,South,Office Supplies,Notebook Pack,8,192.35,51.77
+ORD-00514,2024-05-31,CUST-0026,Aditya Mehta,North,Office Supplies,Pen Set,3,53.32,1.59
+ORD-00344,2024-06-20,CUST-0004,Zara Nair,,Apparel,Hoodie,11,411.86,69.57
+ORD-00059,2024-10-16,CUST-0024,Vivaan Sharma,East,Office Supplies,Printer Paper,11,220.51,18.59
+ORD-00568,2024-07-01,CUST-0099,Vihaan Sharma,East,Office Supplies,Printer Paper,1,13.54,1.53
+ORD-00855,2024-11-04,CUST-0012,Diya Gupta,West,Office Supplies,Printer Paper,7,164.45,17.98
+ORD-00597,2024-01-29,CUST-0101,Ishaan Menon,South,Furniture,Standing Desk,10,2238.41,198.06
+ORD-00674,2024-05-15,CUST-0044,Kiara Chopra,East,Office Supplies,Pen Set,4,64.63,12.97
+ORD-00516,2024-06-23,CUST-0100,Arjun Verma,North,Office Supplies,Pen Set,4,46.32,13.96
+ORD-00874,2024-08-29,CUST-0001,Kiara Singh,West,Office Supplies,Pen Set,1,16.54,-0.6
+ORD-00274,2024-05-29,CUST-0089,Kiara Rao,North,Furniture,Standing Desk,1,258.46,17.44
+ORD-00269,2024-12-29,CUST-0043,Aditya Mehta,South,Furniture,Bookshelf,2,380.89,33.36
+ORD-01030,2024-03-11,CUST-0029,Zara Singh,South,Office Supplies,Pen Set,6,96.11,5.64
+ORD-00748,2024-12-14,CUST-0046,Aarav Kapoor,West,Electronics,USB-C Hub,7,405.12,122.07
+ORD-00772,2024-08-29,CUST-0108,Ananya Das,North,Office Supplies,Printer Paper,10,181.36,17.81
+ORD-00319,2024-09-18,CUST-0120,Zara Chopra,South,Office Supplies,Pen Set,7,155.03,8.83
+ORD-00985,2024-08-04,CUST-0054,Saanvi Reddy,West,Electronics,27in Monitor,2,137.55,-3.49
+ORD-00707,2024-03-28,CUST-0091,Tara Sharma,North,Apparel,Cap,3,91.82,24.25
+ORD-00862,2024-11-08,CUST-0051,Saanvi Reddy,West,Office Supplies,Notebook Pack,4,90.62,24.37
+ORD-00691,2024-12-13,CUST-0051,Saanvi Reddy,North,Furniture,Standing Desk,3,878.42,158.58
+ORD-00092,2024-03-12,CUST-0103,Tara Rao,North,Furniture,Filing Cabinet,3,482.4,65.57
+ORD-00596,2024-06-23,CUST-0011,Zara Gupta,North,Electronics,Webcam,6,346.22,41.22
+ORD-00830,2024-03-05,CUST-0017,Meera Menon,,Furniture,Filing Cabinet,11,2216.57,395.01
+ORD-00533,2024-10-07,CUST-0072,Aarav Gupta,South,Electronics,Webcam,5,562.17,89.79
+ORD-01004,2024-09-08,CUST-0064,Kiara Iyer,West,Furniture,Office Chair,8,1658.49,464.22
+ORD-00068,2024-10-27,CUST-0070,Kiara Nair,South,Office Supplies,Pen Set,7,97.4,28.73
+ORD-00751,2024-05-23,CUST-0022,Zara Iyer,North,Electronics,Mechanical Keyboard,1,97.01,-4.72
+ORD-01094,2024-06-20,CUST-0086,Kiara Singh,North,Office Supplies,Pen Set,10,144.53,34.48
+ORD-00769,2024-06-27,CUST-0066,Diya Nair,South,Office Supplies,Stapler,2,27.54,1.58
+ORD-00558,2024-02-16,CUST-0042,Kiara Bose,South,Apparel,Hoodie,8,221.51,56.02
+ORD-00505,2024-11-06,CUST-0001,Kiara Singh,West,Furniture,Office Chair,5,1305.22,355.01
+ORD-00184,2024-06-14,CUST-0112,Vihaan Bose,West,Office Supplies,Stapler,10,159.49,-1.66
+ORD-00008,2024-10-02,CUST-0018,Vihaan Kapoor,West,Electronics,Webcam,1,93.03,-3.44
+ORD-00273,2024-03-11,CUST-0051,Saanvi Reddy,South,Furniture,Bookshelf,9,1702.56,-58.82
+ORD-00159,2024-08-27,CUST-0022,Zara Iyer,East,Furniture,Filing Cabinet,10,2759.21,224.99
+ORD-00998,2024-08-04,CUST-0037,Tara Reddy,North,Electronics,Wireless Mouse,10,689.89,58.13
+ORD-00618,2024-01-15,CUST-0117,Tara Chopra,West,Office Supplies,Printer Paper,7,79.72,-2.76
+ORD-00717,2024-09-07,CUST-0027,Kiara Rao,East,Electronics,USB-C Hub,2,159.45,-1.96
+ORD-00038,2024-04-27,CUST-0030,Kabir Mehta,South,Furniture,Filing Cabinet,7,1282.39,391.94
+ORD-00981,2024-01-08,CUST-0008,Kabir Chopra,East,Furniture,Standing Desk,10,1930.33,27.63
+ORD-00926,2024-05-10,CUST-0079,Kiara Patel,North,Apparel,T-Shirt,5,195.26,32.66
+ORD-00415,2024-12-15,CUST-0023,Zara Singh,East,Electronics,Wireless Mouse,5,408.61,27.86
+ORD-00812,2024-11-17,CUST-0099,Vihaan Sharma,West,Apparel,T-Shirt,11,376.64,-18.46
+ORD-00330,2024-03-05,CUST-0119,Zara Rao,North,Electronics,Mechanical Keyboard,9,633.06,116.58
+ORD-00744,2024-08-02,CUST-0079,Kiara Patel,North,Apparel,T-Shirt,3,131.07,12.41
+ORD-00955,2024-12-02,CUST-0069,Ishaan Menon,West,Electronics,Webcam,7,573.26,166.27
+ORD-00896,2024-02-26,CUST-0065,Meera Rao,East,Furniture,Office Chair,3,697.64,10.9
+ORD-01011,2024-07-27,CUST-0003,Rohan Kapoor,South,Electronics,Webcam,5,400.44,139.67
+ORD-00709,2024-12-18,CUST-0113,Kiara Iyer,East,Electronics,27in Monitor,8,760.63,6.03
+ORD-00170,2024-02-04,CUST-0100,Arjun Verma,West,Furniture,Standing Desk,7,765.2,96.44
+ORD-00458,2024-01-17,CUST-0019,Tara Singh,West,Apparel,T-Shirt,9,283.2,87.72
+ORD-00201,2024-09-06,CUST-0031,Ananya Mehta,East,Furniture,Filing Cabinet,3,694.09,154.5
+ORD-00418,2024-10-27,CUST-0024,Vivaan Sharma,South,Apparel,Hoodie,9,321.69,112.21
+ORD-00896,2024-02-26,CUST-0065,Meera Rao,East,Furniture,Office Chair,3,697.64,10.9
+ORD-00847,2024-10-08,CUST-0043,Aditya Mehta,East,Furniture,Standing Desk,5,1282.99,52.56
+ORD-00641,2024-02-09,CUST-0086,Kiara Singh,West,Furniture,Standing Desk,11,2487.59,284.59
+ORD-00601,2024-05-19,CUST-0025,Kabir Sharma,East,Apparel,Cap,2,49.3,7.19
+ORD-00281,2024-12-30,CUST-0098,Tara Reddy,East,Electronics,Mechanical Keyboard,2,239.36,7.31
+ORD-00672,2024-10-15,CUST-0046,Aarav Kapoor,,Furniture,Bookshelf,4,1028.5,319.3
+ORD-00975,2024-08-06,CUST-0115,Ananya Sharma,South,Apparel,Hoodie,4,163.05,-2.59
+ORD-00902,2024-03-14,CUST-0026,Aditya Mehta,South,Office Supplies,Notebook Pack,8,120.72,38.15
+ORD-00440,2024-01-06,CUST-0009,Aditya Kapoor,South,Electronics,27in Monitor,4,229.13,62.94
+ORD-00377,2024-04-27,CUST-0101,Ishaan Menon,West,Furniture,Office Chair,4,730.49,231.96
+ORD-00693,2024-09-05,CUST-0046,Aarav Kapoor,East,Electronics,Webcam,3,243.65,36.03
+ORD-00198,2024-06-08,CUST-0107,Aarav Patel,South,Apparel,T-Shirt,7,218.45,20.46
+ORD-00499,2024-09-18,CUST-0044,Kiara Chopra,North,Electronics,Wireless Mouse,7,749.64,-7.78
+ORD-00565,2024-01-14,CUST-0058,Ishaan Reddy,North,Office Supplies,Stapler,4,45.75,2.83
+ORD-00843,2024-07-12,CUST-0007,Arjun Sharma,North,Furniture,Standing Desk,11,2134.58,354.37
+ORD-00921,2024-11-09,CUST-0107,Aarav Patel,South,Office Supplies,Printer Paper,8,100.02,9.14
+ORD-00287,2024-10-17,CUST-0055,Rohan Gupta,West,Office Supplies,Stapler,10,184.46,24.1
+ORD-00970,2024-08-12,CUST-0039,Rohan Chopra,East,Office Supplies,Printer Paper,9,128.78,36.5
+ORD-00512,2024-11-13,CUST-0060,Ishaan Patel,North,Electronics,27in Monitor,5,387.92,46.45
+ORD-00294,2024-03-12,CUST-0020,Diya Menon,East,Apparel,Hoodie,5,189.1,50.82
+ORD-00989,2024-11-08,CUST-0040,Saanvi Iyer,West,Apparel,Cap,5,230.84,54.95
+ORD-00240,2024-01-01,CUST-0119,Zara Rao,North,Apparel,Cap,4,119.54,26.36
+ORD-00825,2024-04-07,CUST-0063,Meera Das,South,Electronics,27in Monitor,3,163.81,-6.32
+ORD-01013,2024-03-29,CUST-0032,Ishaan Nair,North,Apparel,Jacket,6,182.73,9.28
+ORD-00331,2024-06-04,CUST-0015,Kabir Mehta,North,Furniture,Office Chair,9,2125.43,17.18
+ORD-00552,2024-05-06,CUST-0064,Kiara Iyer,South,Electronics,USB-C Hub,7,700.15,135.03
+ORD-00543,2024-10-27,CUST-0099,Vihaan Sharma,East,Office Supplies,Printer Paper,1,14.88,0.69
+ORD-00061,2024-09-22,CUST-0011,Zara Gupta,West,Apparel,Jacket,4,91.94,0.27
+ORD-00485,2024-05-22,CUST-0096,Kabir Kapoor,West,Office Supplies,Pen Set,8,159.41,27.13
+ORD-00138,2024-09-10,CUST-0114,Ishaan Menon,South,Office Supplies,Printer Paper,4,58.82,3.14
+ORD-00844,2024-07-08,CUST-0080,Ananya Iyer,East,Electronics,27in Monitor,8,559.37,190.32
+ORD-00398,2024-02-16,CUST-0099,Vihaan Sharma,West,Furniture,Bookshelf,2,379.37,-3.83
+ORD-00001,2024-04-24,CUST-0105,Ishaan Bose,North,Office Supplies,Notebook Pack,9,164.65,39.27
+ORD-00746,2024-01-27,CUST-0027,Kiara Rao,East,Apparel,Jacket,9,253.42,17.66
+ORD-00764,2024-03-29,CUST-0021,Kabir Nair,West,Electronics,Webcam,2,143.39,35.95
+ORD-00324,2024-12-28,CUST-0118,Saanvi Iyer,East,Apparel,T-Shirt,11,271.77,70.08
+ORD-00580,2024-03-16,CUST-0028,Vihaan Bose,South,Furniture,Standing Desk,9,1491.94,217.46
+ORD-00953,2024-02-13,CUST-0111,Meera Kapoor,North,Apparel,Jacket,5,156.96,35.55
+ORD-00838,2024-09-11,CUST-0041,Meera Gupta,East,Electronics,USB-C Hub,1,107.8,36.36
+ORD-00403,2024-06-21,CUST-0094,Vihaan Patel,South,Electronics,Wireless Mouse,4,301.01,97.55
+ORD-00879,2024-05-14,CUST-0078,Rohan Bose,South,Furniture,Standing Desk,7,1222.47,147.81
+ORD-00868,2024-08-22,CUST-0036,Arjun Nair,East,Furniture,Standing Desk,7,1802.7,492.93
+ORD-01099,2024-09-19,CUST-0052,Saanvi Patel,East,Furniture,Bookshelf,6,1114.8,-20.24
+ORD-01016,2024-09-05,CUST-0090,Priya Nair,North,Furniture,Office Chair,4,802.1,132.77
+ORD-01056,2024-05-06,CUST-0079,Kiara Patel,South,Office Supplies,Stapler,8,147.31,8.26
+ORD-00147,2024-10-05,CUST-0074,Vivaan Singh,West,Office Supplies,Printer Paper,8,90.13,0.43
+ORD-00994,2024-09-16,CUST-0076,Zara Chopra,West,Furniture,Office Chair,11,2812.69,
+ORD-00067,2024-07-28,CUST-0061,Kabir Singh,West,Office Supplies,Notebook Pack,1,11.74,3.0
+ORD-00643,2024-04-20,CUST-0060,Ishaan Patel,North,Office Supplies,Notebook Pack,3,29.78,9.73
+ORD-01000,2024-01-13,CUST-0021,Kabir Nair,North,Apparel,Cap,6,149.39,11.98
+ORD-01026,2024-08-12,CUST-0048,Priya Patel,East,Office Supplies,Pen Set,10,150.04,40.78
+ORD-00200,2024-01-03,CUST-0031,Ananya Mehta,East,Apparel,Jacket,9,289.8,86.4
+ORD-00461,2024-03-09,CUST-0059,Rohan Menon,South,Office Supplies,Pen Set,6,83.34,16.72
+ORD-00644,2024-10-04,CUST-0118,Saanvi Iyer,West,Electronics,USB-C Hub,2,173.42,6.0
+ORD-00615,2024-01-06,CUST-0080,Ananya Iyer,East,Office Supplies,Notebook Pack,9,100.12,9.53
+ORD-00665,2024-07-24,CUST-0076,Zara Chopra,,Apparel,T-Shirt,4,122.35,33.19
+ORD-00264,2024-09-22,CUST-0095,Kabir Gupta,West,Electronics,Wireless Mouse,6,406.14,95.58
+ORD-00021,2024-12-21,CUST-0072,Aarav Gupta,West,Furniture,Filing Cabinet,2,374.19,-5.01
+ORD-00385,2024-02-14,CUST-0048,Priya Patel,South,Apparel,Cap,1,37.67,12.98
+ORD-00399,2024-06-14,CUST-0074,Vivaan Singh,East,Apparel,Cap,3,130.45,29.06
+ORD-00487,2024-12-13,CUST-0007,Arjun Sharma,West,Electronics,Mechanical Keyboard,8,965.47,95.4
+ORD-00873,2024-06-10,CUST-0092,Kiara Bose,East,Furniture,Bookshelf,5,1100.64,
+ORD-01088,2024-11-01,CUST-0074,Vivaan Singh,East,Furniture,Bookshelf,10,2309.98,33.13
+ORD-00456,2024-03-26,CUST-0042,Kiara Bose,North,Office Supplies,Pen Set,7,99.62,15.46
+ORD-00453,2024-05-03,CUST-0011,Zara Gupta,South,Office Supplies,Notebook Pack,9,126.86,15.01
+ORD-01055,2024-11-08,CUST-0083,Priya Patel,North,Furniture,Filing Cabinet,3,696.51,127.84
+ORD-00863,2024-10-19,CUST-0013,Tara Nair,North,Apparel,Jacket,11,397.93,
+ORD-00316,2024-05-02,CUST-0039,Rohan Chopra,South,Apparel,Hoodie,5,157.54,-7.52
+ORD-00129,2024-02-11,CUST-0111,Meera Kapoor,South,Office Supplies,Stapler,11,149.39,-0.0
+ORD-01014,2024-09-13,CUST-0119,Zara Rao,South,Furniture,Bookshelf,6,1407.34,343.14
+ORD-00708,2024-08-21,CUST-0106,Saanvi Reddy,East,Apparel,Jacket,4,162.23,45.52
+ORD-01027,2024-07-05,CUST-0101,Ishaan Menon,East,Apparel,Jacket,2,60.66,-0.9
+ORD-01038,2024-08-24,CUST-0108,Ananya Das,South,Furniture,Office Chair,4,577.96,-19.93
+ORD-00474,2024-12-16,CUST-0097,Aarav Sharma,East,Electronics,Mechanical Keyboard,10,1049.11,11.21
+ORD-00917,2024-10-03,CUST-0117,Tara Chopra,South,Electronics,USB-C Hub,8,710.35,169.74
+ORD-01076,2024-03-20,CUST-0052,Saanvi Patel,West,Electronics,Mechanical Keyboard,6,552.4,120.45
+ORD-00508,2024-05-13,CUST-0075,Meera Verma,North,Furniture,Bookshelf,6,1209.97,123.14
+ORD-00364,2024-03-27,CUST-0033,Kiara Sharma,East,Office Supplies,Printer Paper,6,105.76,8.68
+ORD-00412,2024-09-26,CUST-0025,Kabir Sharma,North,Furniture,Filing Cabinet,10,1813.61,41.25
+ORD-00213,2024-03-16,CUST-0043,Aditya Mehta,South,Furniture,Filing Cabinet,8,1427.11,135.77
+ORD-00149,2024-09-05,CUST-0110,Arjun Mehta,North,Electronics,USB-C Hub,1,90.86,16.99
+ORD-00142,2024-01-19,CUST-0068,Zara Verma,South,Office Supplies,Pen Set,2,24.32,6.58
+ORD-00666,2024-07-17,CUST-0114,Ishaan Menon,East,Apparel,Hoodie,5,197.56,67.57
+ORD-00072,2024-01-20,CUST-0046,Aarav Kapoor,South,Apparel,Hoodie,4,82.66,-1.59
+ORD-01074,2024-05-05,CUST-0051,Saanvi Reddy,West,Office Supplies,Printer Paper,6,71.4,20.72
+ORD-00738,2024-03-23,CUST-0060,Ishaan Patel,North,Electronics,USB-C Hub,4,205.5,31.69
+ORD-00356,2024-07-03,CUST-0106,Saanvi Reddy,East,Electronics,Webcam,9,734.95,77.86
+ORD-00320,2024-03-26,CUST-0082,Vihaan Bose,East,Office Supplies,Notebook Pack,1,19.32,2.89
+ORD-00016,2024-09-05,CUST-0089,Kiara Rao,North,Apparel,Jacket,6,229.93,72.65
+ORD-00419,2024-03-11,CUST-0057,Ishaan Chopra,East,Furniture,Filing Cabinet,5,958.7,129.2
+ORD-00144,2024-12-20,CUST-0031,Ananya Mehta,,Electronics,Webcam,5,485.47,15.65
+ORD-00600,2024-01-02,CUST-0045,Tara Singh,South,Office Supplies,Printer Paper,10,151.32,11.0
+ORD-00388,2024-12-30,CUST-0090,Priya Nair,North,Apparel,Hoodie,9,432.02,48.34
+ORD-01033,2024-01-09,CUST-0083,Priya Patel,South,Apparel,Hoodie,9,333.78,5.22
+ORD-00629,2024-03-16,CUST-0096,Kabir Kapoor,South,Furniture,Bookshelf,10,1687.13,400.15
+ORD-00048,2024-10-22,CUST-0006,Ananya Bose,North,Electronics,Wireless Mouse,4,432.19,62.77
+ORD-01005,2024-08-16,CUST-0035,Kiara Das,East,Office Supplies,Printer Paper,9,182.86,54.76
+ORD-00165,2024-01-15,CUST-0036,Arjun Nair,North,Apparel,Jacket,10,318.47,97.23
+ORD-00100,2024-06-28,CUST-0101,Ishaan Menon,South,Office Supplies,Pen Set,7,134.97,29.89
+ORD-00266,2024-11-17,CUST-0043,Aditya Mehta,East,Electronics,Mechanical Keyboard,3,191.98,-0.37
+ORD-00915,2024-06-17,CUST-0068,Zara Verma,East,Furniture,Office Chair,4,1041.38,-51.12
+ORD-00231,2024-10-07,CUST-0054,Saanvi Reddy,North,Furniture,Filing Cabinet,2,383.82,34.41
+ORD-00420,2024-07-27,CUST-0107,Aarav Patel,North,Furniture,Standing Desk,9,1616.77,462.78
+ORD-01058,2024-12-04,CUST-0026,Aditya Mehta,South,Office Supplies,Printer Paper,3,69.96,2.57
+ORD-01060,2024-11-29,CUST-0024,Vivaan Sharma,South,Electronics,Mechanical Keyboard,10,1055.78,12.61
+ORD-00194,2024-06-03,CUST-0014,Kiara Rao,West,Electronics,27in Monitor,2,166.06,26.41
+ORD-00352,2024-02-17,CUST-0083,Priya Patel,South,Office Supplies,Notebook Pack,10,97.06,11.72
+ORD-00071,2024-07-24,CUST-0109,Zara Reddy,North,Office Supplies,Notebook Pack,9,142.8,19.67
+ORD-01053,2024-09-25,CUST-0113,Kiara Iyer,South,Furniture,Standing Desk,4,932.09,68.0
+ORD-00489,2024-01-17,CUST-0009,Aditya Kapoor,South,Furniture,Filing Cabinet,3,534.82,7.83
+ORD-00214,2024-10-09,CUST-0036,Arjun Nair,North,Apparel,Cap,7,267.58,17.47
+ORD-00172,2024-06-11,CUST-0107,Aarav Patel,East,Furniture,Standing Desk,10,2341.21,323.92
+ORD-00019,2024-11-01,CUST-0085,Ishaan Bose,West,Office Supplies,Printer Paper,8,171.91,12.15
+ORD-00509,2024-02-12,CUST-0046,Aarav Kapoor,East,Apparel,T-Shirt,7,233.79,42.72
+ORD-00156,2024-12-17,CUST-0096,Kabir Kapoor,South,Apparel,Jacket,8,319.72,103.64
+ORD-00285,2024-11-27,CUST-0007,Arjun Sharma,North,Furniture,Filing Cabinet,9,1811.84,58.28
+ORD-00845,2024-02-03,CUST-0061,Kabir Singh,South,Electronics,Wireless Mouse,9,460.51,138.47
+ORD-00441,2024-09-09,CUST-0012,Diya Gupta,East,Office Supplies,Stapler,7,114.35,11.49
+ORD-00336,2024-10-16,CUST-0020,Diya Menon,West,Furniture,Standing Desk,4,965.45,330.13
+ORD-01034,2024-05-20,CUST-0056,Priya Iyer,North,Office Supplies,Printer Paper,338,105.75,22.96
+ORD-00630,2024-06-12,CUST-0120,Zara Chopra,North,Electronics,Webcam,11,1136.95,67.04
+ORD-00815,2024-05-11,CUST-0057,Ishaan Chopra,North,Furniture,Filing Cabinet,2,292.81,82.82
+ORD-00866,2024-06-17,CUST-0118,Saanvi Iyer,North,Electronics,Mechanical Keyboard,9,750.49,213.97
+ORD-00837,2024-08-03,CUST-0039,Rohan Chopra,East,Electronics,USB-C Hub,6,462.27,-10.46
+ORD-00976,2024-01-26,CUST-0085,Ishaan Bose,West,Electronics,27in Monitor,4,339.53,40.85
+ORD-00679,2024-05-11,CUST-0047,Kabir Verma,North,Apparel,Hoodie,6,172.54,-2.93
+ORD-01028,2024-07-19,CUST-0095,Kabir Gupta,West,Furniture,Office Chair,2,430.71,-13.89
+ORD-00767,2024-08-31,CUST-0069,Ishaan Menon,East,Electronics,Mechanical Keyboard,5,323.46,53.4
+ORD-00795,2024-05-21,CUST-0072,Aarav Gupta,North,Furniture,Office Chair,4,929.73,15.0
+ORD-00477,2024-10-05,CUST-0067,Aarav Rao,East,Electronics,27in Monitor,7,576.81,194.33
+ORD-00701,2024-10-14,CUST-0056,Priya Iyer,West,Furniture,Bookshelf,9,2135.76,199.04
+ORD-00157,2024-11-30,CUST-0012,Diya Gupta,North,Apparel,T-Shirt,11,351.77,-7.2
+ORD-00076,2024-10-20,CUST-0102,Vivaan Singh,North,Apparel,Hoodie,7,242.07,71.85
+ORD-00327,2024-12-11,CUST-0015,Kabir Mehta,North,Apparel,T-Shirt,4,170.54,36.08
+ORD-00437,2024-09-19,CUST-0053,Vivaan Sharma,South,Office Supplies,Printer Paper,1,22.01,7.14
+ORD-00787,2024-08-05,CUST-0013,Tara Nair,West,Office Supplies,Notebook Pack,2,41.45,-2.04
+ORD-00227,2024-01-13,CUST-0094,Vihaan Patel,North,Apparel,Jacket,9,238.85,36.68
+ORD-00927,2024-11-23,CUST-0110,Arjun Mehta,West,Office Supplies,Pen Set,11,185.57,33.17
+ORD-00582,2024-09-07,CUST-0025,Kabir Sharma,West,Electronics,Webcam,9,730.3,203.82
+ORD-00102,2024-09-14,CUST-0059,Rohan Menon,West,Apparel,T-Shirt,3,83.82,27.42
+ORD-00897,2024-12-27,CUST-0101,Ishaan Menon,West,Apparel,Hoodie,2,98.83,20.53
+ORD-00103,2024-07-01,CUST-0049,Tara Mehta,South,Apparel,Cap,11,380.27,37.99
+ORD-00242,2024-10-12,CUST-0113,Kiara Iyer,West,Furniture,Filing Cabinet,11,2099.72,-77.23
+ORD-00654,2024-09-02,CUST-0034,Vivaan Iyer,North,Furniture,Standing Desk,1,242.06,78.62
+ORD-00389,2024-03-17,CUST-0020,Diya Menon,North,Office Supplies,Notebook Pack,8,101.98,24.87
+ORD-01052,2024-02-08,CUST-0085,Ishaan Bose,West,Furniture,Office Chair,7,1093.9,285.43
+ORD-00503,2024-08-20,CUST-0048,Priya Patel,South,Furniture,Standing Desk,3,596.29,-5.21
+ORD-01003,2024-06-12,CUST-0008,Kabir Chopra,South,Furniture,Office Chair,4,1005.48,
+ORD-00923,2024-10-08,CUST-0106,Saanvi Reddy,West,Office Supplies,Notebook Pack,1,17.54,0.31
+ORD-00442,2024-10-14,CUST-0054,Saanvi Reddy,West,Apparel,T-Shirt,2,60.83,20.35
+ORD-00753,2024-10-23,CUST-0069,Ishaan Menon,North,Electronics,Webcam,6,518.13,
+ORD-01096,2024-09-18,CUST-0041,Meera Gupta,North,Office Supplies,Stapler,4,88.41,17.27
+ORD-00066,2024-06-03,CUST-0062,Kabir Singh,West,Electronics,USB-C Hub,2,170.58,-6.13
+ORD-00706,2024-09-13,CUST-0076,Zara Chopra,South,Office Supplies,Notebook Pack,5,91.88,7.99
+ORD-01069,2024-08-04,CUST-0095,Kabir Gupta,South,Apparel,Hoodie,11,233.43,55.43
+ORD-00375,2024-04-30,CUST-0112,Vihaan Bose,West,Furniture,Bookshelf,9,1831.2,174.11
+ORD-00780,2024-02-04,CUST-0023,Zara Singh,West,Electronics,Webcam,4,241.84,27.83
+ORD-00659,2024-08-09,CUST-0051,Saanvi Reddy,East,Electronics,27in Monitor,9,641.11,47.32
+ORD-00386,2024-09-01,CUST-0109,Zara Reddy,North,Office Supplies,Pen Set,6,89.0,12.72
+ORD-00310,2024-09-21,CUST-0053,Vivaan Sharma,,Furniture,Office Chair,9,1529.35,471.99
+ORD-00090,2024-04-05,CUST-0031,Ananya Mehta,West,Furniture,Filing Cabinet,1,235.28,3.51
+ORD-00729,2024-07-20,CUST-0003,Rohan Kapoor,West,Electronics,Mechanical Keyboard,3,159.2,33.79
+ORD-00938,2024-11-26,CUST-0026,Aditya Mehta,East,Furniture,Filing Cabinet,7,1760.44,431.34
+ORD-00286,2024-08-09,CUST-0034,Vivaan Iyer,South,Office Supplies,Stapler,3,50.72,7.65
+ORD-00531,2024-01-20,CUST-0044,Kiara Chopra,North,Office Supplies,Pen Set,9,99.93,22.46
+ORD-00471,2024-03-04,CUST-0016,Rohan Patel,West,Furniture,Bookshelf,1,215.17,30.24
+ORD-00683,2024-09-10,CUST-0019,Tara Singh,South,Apparel,Cap,8,331.99,-4.65
+ORD-00195,2024-08-12,CUST-0059,Rohan Menon,West,Office Supplies,Printer Paper,8,136.9,
+ORD-00252,2024-11-16,CUST-0054,Saanvi Reddy,West,Electronics,Webcam,10,661.46,-26.59
+ORD-00712,2024-01-16,CUST-0097,Aarav Sharma,North,Office Supplies,Pen Set,7,84.4,18.03
+ORD-00849,2024-08-14,CUST-0111,Meera Kapoor,South,Apparel,Jacket,7,317.55,34.5
+ORD-00537,2024-10-04,CUST-0112,Vihaan Bose,South,Office Supplies,Stapler,3,67.83,-2.31
+ORD-00469,2024-04-17,CUST-0064,Kiara Iyer,North,Furniture,Office Chair,1,175.1,13.76
+ORD-00609,2024-09-21,CUST-0024,Vivaan Sharma,North,Apparel,Hoodie,2,53.46,10.72
+ORD-00306,2024-01-02,CUST-0012,Diya Gupta,East,Apparel,Cap,11,297.34,47.17
+ORD-00578,2024-12-21,CUST-0016,Rohan Patel,North,Furniture,Bookshelf,11,1920.69,10.68
+ORD-00722,2024-01-30,CUST-0079,Kiara Patel,West,Office Supplies,Pen Set,7,103.51,
+ORD-00357,2024-03-30,CUST-0031,Ananya Mehta,East,Electronics,27in Monitor,7,496.24,
+ORD-00991,2024-07-16,CUST-0067,Aarav Rao,North,Furniture,Bookshelf,4,700.17,241.61
+ORD-00296,2024-05-28,CUST-0101,Ishaan Menon,West,Apparel,Cap,4,112.65,33.47
+ORD-01092,2024-10-11,CUST-0037,Tara Reddy,South,Electronics,USB-C Hub,4,312.42,94.83
+ORD-00945,2024-02-26,CUST-0074,Vivaan Singh,West,Apparel,Hoodie,11,345.73,-2097.29
+ORD-01008,2024-10-20,CUST-0097,Aarav Sharma,East,Apparel,T-Shirt,6,197.69,60.25
+ORD-00685,2024-10-30,CUST-0039,Rohan Chopra,South,Furniture,Bookshelf,4,888.84,128.34
+ORD-01070,2024-05-21,CUST-0055,Rohan Gupta,South,Electronics,27in Monitor,5,405.12,132.26
+ORD-00366,2024-03-11,CUST-0019,Tara Singh,North,Electronics,USB-C Hub,10,860.46,215.11
+ORD-00559,2024-07-28,CUST-0097,Aarav Sharma,West,Apparel,Hoodie,6,142.7,28.94
+ORD-00911,2024-01-13,CUST-0053,Vivaan Sharma,East,Office Supplies,Notebook Pack,8,94.9,5.42
+ORD-00323,2024-03-22,CUST-0052,Saanvi Patel,South,Office Supplies,Notebook Pack,7,113.29,35.35
+ORD-00251,2024-08-18,CUST-0058,Ishaan Reddy,East,Apparel,T-Shirt,5,124.14,20.72
+ORD-01048,2024-12-30,CUST-0002,Saanvi Bose,East,Office Supplies,Pen Set,10,177.61,48.12
+ORD-00550,2024-11-01,CUST-0094,Vihaan Patel,South,Electronics,USB-C Hub,9,880.39,192.94
+ORD-00857,2024-11-09,CUST-0112,Vihaan Bose,West,Office Supplies,Stapler,7,120.47,31.62
+ORD-00882,2024-12-28,CUST-0022,Zara Iyer,South,Office Supplies,Printer Paper,7,96.45,32.07
+ORD-00655,2024-02-18,CUST-0034,Vivaan Iyer,East,Apparel,Jacket,5,144.05,30.85
+ORD-00121,2024-12-26,CUST-0088,Aarav Reddy,East,Furniture,Office Chair,11,3195.52,659.21
+ORD-00673,2024-03-15,CUST-0056,Priya Iyer,North,Office Supplies,Notebook Pack,11,147.49,13.05
+ORD-00735,2024-08-19,CUST-0060,Ishaan Patel,North,Apparel,T-Shirt,6,195.86,50.19
+ORD-00220,2024-05-13,CUST-0082,Vihaan Bose,South,Electronics,USB-C Hub,9,636.29,-8.9
+ORD-00329,2024-05-27,CUST-0031,Ananya Mehta,West,Furniture,Bookshelf,10,2081.41,658.65
+ORD-00193,2024-06-09,CUST-0103,Tara Rao,South,Office Supplies,Pen Set,1,13.83,4.69
+ORD-00986,2024-07-31,CUST-0007,Arjun Sharma,North,Apparel,Jacket,8,346.14,23.71
+ORD-00181,2024-09-25,CUST-0005,Aarav Gupta,East,Electronics,Wireless Mouse,4,446.08,137.15
+ORD-00186,2024-01-11,CUST-0096,Kabir Kapoor,West,Office Supplies,Pen Set,4,72.53,22.83
+ORD-00594,2024-07-31,CUST-0092,Kiara Bose,West,Apparel,Cap,5,210.06,38.29
+ORD-00432,2024-08-06,CUST-0111,Meera Kapoor,West,Furniture,Filing Cabinet,10,2571.45,262.23
+ORD-00465,2024-09-12,CUST-0065,Meera Rao,South,Apparel,Hoodie,3,101.12,15.91
+ORD-01017,2024-09-26,CUST-0028,Vihaan Bose,East,Electronics,27in Monitor,5,358.61,21.63
+ORD-00075,2024-07-21,CUST-0048,Priya Patel,North,Office Supplies,Stapler,2,30.94,4.32
+ORD-00817,2024-08-12,CUST-0048,Priya Patel,South,Office Supplies,Stapler,8,166.44,46.58
+ORD-00376,2024-12-16,CUST-0024,Vivaan Sharma,North,Electronics,Wireless Mouse,7,792.46,248.05
+ORD-00810,2024-06-21,CUST-0033,Kiara Sharma,South,Electronics,Wireless Mouse,7,533.21,63.37
+ORD-00695,2024-07-12,CUST-0025,Kabir Sharma,East,Electronics,27in Monitor,5,400.1,60.73
+ORD-00268,2024-05-02,CUST-0016,Rohan Patel,East,Electronics,Wireless Mouse,10,639.66,17.49
+ORD-00085,2024-02-23,CUST-0081,Rohan Iyer,West,Electronics,Webcam,11,683.04,34.02
+ORD-01004,2024-09-08,CUST-0064,Kiara Iyer,West,Furniture,Office Chair,8,1658.49,464.22
+ORD-00858,2024-10-30,CUST-0095,Kabir Gupta,North,Apparel,Jacket,1,42.76,3.56
+ORD-00380,2024-01-16,CUST-0117,Tara Chopra,West,Electronics,Mechanical Keyboard,4,250.21,7.23
+ORD-00143,2024-11-26,CUST-0112,Vihaan Bose,North,Apparel,Cap,1,36.45,0.14
+ORD-00553,2024-04-18,CUST-0091,Tara Sharma,West,Furniture,Standing Desk,5,881.28,150.85
+ORD-00566,2024-07-24,CUST-0045,Tara Singh,West,Apparel,Jacket,6,265.57,-9.59
+ORD-00157,2024-11-30,CUST-0012,Diya Gupta,North,Apparel,T-Shirt,11,351.77,-7.2
+ORD-00210,2024-01-23,CUST-0014,Kiara Rao,North,Furniture,Filing Cabinet,5,739.17,157.27
+ORD-00705,2024-09-24,CUST-0080,Ananya Iyer,East,Electronics,Webcam,5,506.3,69.86
+ORD-00647,2024-07-03,CUST-0070,Kiara Nair,East,Electronics,USB-C Hub,7,542.95,-24.26
+ORD-00965,2024-11-09,CUST-0021,Kabir Nair,South,Apparel,T-Shirt,2,53.87,2.8
+ORD-00180,2024-12-08,CUST-0016,Rohan Patel,South,Office Supplies,Stapler,11,129.84,4.24
+ORD-00135,2024-12-04,CUST-0030,Kabir Mehta,West,Electronics,27in Monitor,11,1087.7,148.1
+ORD-00002,2024-03-16,CUST-0041,Meera Gupta,South,Furniture,Office Chair,5,563.3,162.08
+ORD-00313,2024-01-02,CUST-0078,Rohan Bose,West,Electronics,USB-C Hub,6,357.61,99.5
+ORD-00110,2024-11-10,CUST-0092,Kiara Bose,East,Office Supplies,Pen Set,2,31.6,-0.57
+ORD-00161,2024-06-08,CUST-0036,Arjun Nair,East,Apparel,Cap,4,118.64,7.8
+ORD-00402,2024-07-21,CUST-0032,Ishaan Nair,North,Office Supplies,Printer Paper,3,31.83,7.83
+ORD-00206,2024-03-23,CUST-0001,Kiara Singh,West,Apparel,Cap,1,27.46,1.5
+ORD-00491,2024-05-12,CUST-0039,Rohan Chopra,North,Apparel,Jacket,8,185.17,5.42
+ORD-00289,2024-09-11,CUST-0015,Kabir Mehta,East,Office Supplies,Pen Set,4,89.46,10.18
+ORD-00057,2024-02-08,CUST-0018,Vihaan Kapoor,West,Apparel,T-Shirt,2,57.35,-2.12
+ORD-00173,2024-09-08,CUST-0004,Zara Nair,South,Apparel,T-Shirt,11,280.37,0.27
+ORD-00522,2024-05-28,CUST-0017,Meera Menon,North,Apparel,Jacket,9,341.32,42.36
+ORD-00572,2024-02-23,CUST-0058,Ishaan Reddy,South,Electronics,Webcam,9,633.98,61.11
+ORD-00232,2024-12-29,CUST-0067,Aarav Rao,West,Furniture,Office Chair,6,1384.03,329.89
+ORD-00963,2024-08-13,CUST-0055,Rohan Gupta,South,Electronics,Webcam,4,289.83,55.41
+ORD-00613,2024-02-01,CUST-0024,Vivaan Sharma,West,Office Supplies,Stapler,10,145.37,32.8
+ORD-00835,2024-02-24,CUST-0040,Saanvi Iyer,North,Electronics,Wireless Mouse,11,490.23,-10.89
+ORD-00711,2024-08-11,CUST-0066,Diya Nair,North,Electronics,27in Monitor,6,483.92,-15.25
+ORD-00311,2024-01-17,CUST-0094,Vihaan Patel,East,Furniture,Standing Desk,8,1355.86,220.62
+ORD-00078,2024-05-20,CUST-0052,Saanvi Patel,West,Furniture,Standing Desk,6,1225.07,413.37
+ORD-01045,2024-07-21,CUST-0082,Vihaan Bose,North,Electronics,27in Monitor,2,101.21,9.92
+ORD-00237,2024-06-17,CUST-0051,Saanvi Reddy,South,Electronics,27in Monitor,3,208.55,5.85
+ORD-00664,2024-02-27,CUST-0008,Kabir Chopra,West,Office Supplies,Printer Paper,9,131.05,7.65
+ORD-01097,2024-07-22,CUST-0064,Kiara Iyer,East,Apparel,Hoodie,3,132.47,7.36
+ORD-00904,2024-09-04,CUST-0079,Kiara Patel,West,Electronics,Webcam,11,1180.32,229.17
+ORD-01023,2024-02-18,CUST-0006,Ananya Bose,West,Apparel,Jacket,2,54.3,-1.28
+ORD-00619,2024-02-22,CUST-0087,Rohan Patel,West,Furniture,Filing Cabinet,10,1800.25,282.4
+ORD-00176,2024-04-14,CUST-0034,Vivaan Iyer,North,Furniture,Office Chair,10,1476.61,-0.07
+ORD-00840,2024-04-03,CUST-0015,Kabir Mehta,North,Electronics,Mechanical Keyboard,6,373.61,127.83
+ORD-00569,2024-06-11,CUST-0111,Meera Kapoor,North,Electronics,Wireless Mouse,8,662.22,-10.46
+ORD-00544,2024-04-13,CUST-0012,Diya Gupta,South,Furniture,Filing Cabinet,11,1745.9,418.99
+ORD-00681,2024-03-20,CUST-0097,Aarav Sharma,South,Furniture,Filing Cabinet,5,1140.01,178.93
+ORD-00408,2024-06-09,CUST-0069,Ishaan Menon,South,Office Supplies,Printer Paper,8,83.95,16.52
+ORD-00318,2024-11-05,CUST-0083,Priya Patel,South,Office Supplies,Stapler,4,86.89,11.98
+ORD-00551,2024-06-24,CUST-0062,Kabir Singh,East,Apparel,T-Shirt,7,293.22,35.8
+ORD-00530,2024-08-18,CUST-0117,Tara Chopra,South,Furniture,Office Chair,6,786.79,270.05
+ORD-00153,2024-07-15,CUST-0098,Tara Reddy,South,Office Supplies,Pen Set,11,213.8,25.55
+ORD-00047,2024-03-26,CUST-0077,Kabir Menon,North,Furniture,Standing Desk,5,1117.87,261.39
+ORD-01049,2024-09-03,CUST-0062,Kabir Singh,South,Office Supplies,Printer Paper,4,62.03,10.48
+ORD-00728,2024-09-10,CUST-0007,Arjun Sharma,North,Apparel,Jacket,10,406.4,-3.9
+ORD-00545,2024-10-04,CUST-0011,Zara Gupta,South,Electronics,Wireless Mouse,10,773.15,256.1
+ORD-00348,2024-08-18,CUST-0046,Aarav Kapoor,North,Office Supplies,Pen Set,3,38.34,10.2
+ORD-00933,2024-03-28,CUST-0089,Kiara Rao,North,Electronics,Webcam,9,773.67,108.86
+ORD-00993,2024-11-24,CUST-0034,Vivaan Iyer,East,Apparel,Jacket,9,217.31,-3.25
+ORD-00241,2024-07-13,CUST-0103,Tara Rao,East,Office Supplies,Printer Paper,2,22.01,1.62
+ORD-00541,2024-08-15,CUST-0016,Rohan Patel,West,Electronics,USB-C Hub,8,860.95,275.35
+ORD-01086,2024-04-30,CUST-0014,Kiara Rao,East,Apparel,T-Shirt,8,329.48,70.5
+ORD-00557,2024-10-18,CUST-0034,Vivaan Iyer,South,Furniture,Office Chair,10,2454.28,
+ORD-00984,2024-10-02,CUST-0087,Rohan Patel,East,Electronics,27in Monitor,1,107.61,0.26
+ORD-00063,2024-06-04,CUST-0046,Aarav Kapoor,East,Apparel,Cap,10,336.75,-16.4
+ORD-00954,2024-05-30,CUST-0075,Meera Verma,East,Apparel,Jacket,10,289.69,62.15
+ORD-00836,2024-09-14,CUST-0119,Zara Rao,South,Office Supplies,Stapler,3,43.29,8.38
+ORD-00292,2024-03-11,CUST-0036,Arjun Nair,South,Electronics,Mechanical Keyboard,1,95.1,-4.44
+ORD-01079,2024-09-06,CUST-0036,Arjun Nair,South,Apparel,Hoodie,5,183.09,
+ORD-00733,2024-10-15,CUST-0109,Zara Reddy,West,Office Supplies,Stapler,3,68.56,17.1
+ORD-01066,2024-03-21,CUST-0006,Ananya Bose,North,Furniture,Office Chair,9,1447.43,422.23
+ORD-00520,2024-03-09,CUST-0077,Kabir Menon,West,Apparel,Hoodie,7,131.96,16.1
+ORD-00661,2024-11-18,CUST-0059,Rohan Menon,South,Furniture,Standing Desk,9,2562.62,771.24
+ORD-00401,2024-04-17,CUST-0101,Ishaan Menon,North,Apparel,T-Shirt,9,273.32,32.68
+ORD-00023,2024-06-17,CUST-0099,Vihaan Sharma,East,Office Supplies,Pen Set,11,8212.83,21.2
+ORD-00741,2024-07-03,CUST-0081,Rohan Iyer,North,Apparel,Hoodie,6,226.41,18.55
+ORD-00438,2024-01-11,CUST-0063,Meera Das,West,Office Supplies,Notebook Pack,8,123.09,14.48
+ORD-00189,2024-01-17,CUST-0061,Kabir Singh,North,Electronics,Webcam,6,347.58,52.74
+ORD-00702,2024-11-12,CUST-0023,Zara Singh,South,Electronics,USB-C Hub,4,364.12,7.87
+ORD-00472,2024-10-10,CUST-0086,Kiara Singh,,Office Supplies,Notebook Pack,5,95.62,
+ORD-00912,2024-12-11,CUST-0059,Rohan Menon,East,Electronics,Webcam,7,719.45,106.68
+ORD-00400,2024-06-01,CUST-0053,Vivaan Sharma,West,Furniture,Office Chair,5,945.04,65.06
+ORD-00259,2024-06-13,CUST-0002,Saanvi Bose,East,Furniture,Bookshelf,1,186.13,57.44
+ORD-00228,2024-09-22,CUST-0069,Ishaan Menon,South,Apparel,Cap,4,115.41,3.22
+ORD-00317,2024-07-21,CUST-0046,Aarav Kapoor,South,Electronics,27in Monitor,2,147.28,17.79
+ORD-00108,2024-04-03,CUST-0019,Tara Singh,East,Electronics,Webcam,9,648.67,132.6
+ORD-01029,2024-06-07,CUST-0109,Zara Reddy,North,Office Supplies,Notebook Pack,9,161.13,4.23
+ORD-00925,2024-07-08,CUST-0075,Meera Verma,North,Apparel,Cap,5,183.85,56.9
+ORD-00884,2024-02-04,CUST-0086,Kiara Singh,East,Office Supplies,Stapler,7,61.76,-1.62
+ORD-00484,2024-08-26,CUST-0011,Zara Gupta,West,Furniture,Office Chair,8,1773.69,528.04
+ORD-00452,2024-08-10,CUST-0040,Saanvi Iyer,South,Apparel,Hoodie,2,67.49,2.8
+ORD-00689,2024-04-10,CUST-0075,Meera Verma,West,Furniture,Office Chair,1,241.71,33.99
+ORD-00346,2024-10-24,CUST-0087,Rohan Patel,North,Furniture,Filing Cabinet,2,475.22,26.14
+ORD-00081,2024-08-12,CUST-0092,Kiara Bose,West,Office Supplies,Stapler,7,144.47,24.59
+ORD-00788,2024-07-27,CUST-0112,Vihaan Bose,South,Office Supplies,Printer Paper,10,154.92,-4.86
+ORD-00166,2024-09-29,CUST-0055,Rohan Gupta,West,Apparel,T-Shirt,1,31.92,0.92
+ORD-00481,2024-09-10,CUST-0055,Rohan Gupta,East,Office Supplies,Pen Set,8,151.68,37.4
+ORD-00031,2024-02-26,CUST-0005,Aarav Gupta,East,Furniture,Filing Cabinet,10,2085.11,431.06
+ORD-00011,2024-09-29,CUST-0051,Saanvi Reddy,North,Electronics,27in Monitor,1,69.58,-0.05
+ORD-00846,2024-01-19,CUST-0094,Vihaan Patel,South,Electronics,27in Monitor,8,692.32,210.14
+ORD-00343,2024-08-07,CUST-0056,Priya Iyer,West,Electronics,USB-C Hub,7,717.48,-23.11
+ORD-00428,2024-09-15,CUST-0101,Ishaan Menon,South,Electronics,Webcam,7,492.06,151.07
+ORD-00556,2024-03-18,CUST-0088,Aarav Reddy,South,Office Supplies,Stapler,2,36.46,0.58
+ORD-00870,2024-08-26,CUST-0047,Kabir Verma,North,Electronics,27in Monitor,3,244.35,8.05
+ORD-00158,2024-11-29,CUST-0014,Kiara Rao,North,Furniture,Standing Desk,7,1470.28,142.88
+ORD-01021,2024-07-11,CUST-0016,Rohan Patel,West,Office Supplies,Printer Paper,9,170.56,-7.78
+ORD-00686,2024-08-31,CUST-0065,Meera Rao,North,Office Supplies,Printer Paper,11,144.18,46.02
+ORD-00334,2024-07-24,CUST-0091,Tara Sharma,South,Electronics,Mechanical Keyboard,1,87.43,19.97
+ORD-00928,2024-03-14,CUST-0051,Saanvi Reddy,North,Furniture,Filing Cabinet,2,417.32,108.15
+ORD-00258,2024-01-25,CUST-0049,Tara Mehta,West,Electronics,27in Monitor,4,237.82,18.13
+ORD-00935,2024-04-17,CUST-0099,Vihaan Sharma,West,Office Supplies,Pen Set,1,20.02,
+ORD-01062,2024-06-22,CUST-0065,Meera Rao,South,Electronics,Mechanical Keyboard,2,157.15,20.86
+ORD-00478,2024-12-17,CUST-0094,Vihaan Patel,South,Apparel,Hoodie,7,240.0,37.81
+ORD-00622,2024-09-08,CUST-0103,Tara Rao,North,Office Supplies,Pen Set,11,182.86,61.81
+ORD-00005,2024-12-04,CUST-0041,Meera Gupta,North,Apparel,T-Shirt,8,381.94,121.54
+ORD-00625,2024-02-13,CUST-0032,Ishaan Nair,East,Office Supplies,Stapler,9,156.51,-7.66
+ORD-00199,2024-03-09,CUST-0086,Kiara Singh,South,Office Supplies,Stapler,8,112.2,0.61
+ORD-00117,2024-08-27,CUST-0112,Vihaan Bose,East,Apparel,T-Shirt,2,69.55,-2.7
+ORD-00410,2024-03-18,CUST-0116,Rohan Kapoor,West,Apparel,Hoodie,7,266.92,57.0
+ORD-00280,2024-07-08,CUST-0005,Aarav Gupta,South,Electronics,USB-C Hub,8,583.91,166.93
+ORD-00205,2024-02-11,CUST-0030,Kabir Mehta,South,Office Supplies,Printer Paper,1,11.42,2.27
+ORD-00439,2024-10-16,CUST-0082,Vihaan Bose,South,Furniture,Office Chair,3,690.37,105.67
+ORD-00175,2024-11-01,CUST-0037,Tara Reddy,West,Electronics,USB-C Hub,1,118.0,35.49
+ORD-00871,2024-04-04,CUST-0099,Vihaan Sharma,North,Electronics,Mechanical Keyboard,4,257.52,8.4
+ORD-00581,2024-09-21,CUST-0032,Ishaan Nair,,Apparel,T-Shirt,8,204.68,9.54
+ORD-00328,2024-08-05,CUST-0079,Kiara Patel,West,Apparel,Hoodie,3,125.14,25.53
+ORD-00203,2024-03-27,CUST-0071,Aarav Das,East,Furniture,Office Chair,1,213.48,38.53
+ORD-00864,2024-06-10,CUST-0069,Ishaan Menon,North,Office Supplies,Notebook Pack,7,131.12,32.55
+ORD-00084,2024-05-30,CUST-0084,Aarav Iyer,South,Furniture,Filing Cabinet,6,1377.34,239.2
+ORD-00120,2024-08-26,CUST-0014,Kiara Rao,East,Apparel,Cap,7,281.23,-2.77
+ORD-00178,2024-07-21,CUST-0078,Rohan Bose,North,Apparel,T-Shirt,6,162.8,56.3
+ORD-00276,2024-11-06,CUST-0084,Aarav Iyer,South,Electronics,Wireless Mouse,5,408.13,87.61
+ORD-00790,2024-10-27,CUST-0113,Kiara Iyer,North,Furniture,Standing Desk,6,1267.05,-32.56
+ORD-00413,2024-11-20,CUST-0087,Rohan Patel,North,Apparel,Jacket,3,149.93,38.24
+ORD-00014,2024-06-24,CUST-0114,Ishaan Menon,South,Office Supplies,Pen Set,9,182.98,3.98
+ORD-00249,2024-12-20,CUST-0082,Vihaan Bose,North,Electronics,Mechanical Keyboard,3,258.4,29.96
+ORD-01077,2024-01-27,CUST-0069,Ishaan Menon,West,Office Supplies,Notebook Pack,6,71.35,10.41
+ORD-00577,2024-09-24,CUST-0001,Kiara Singh,East,Office Supplies,Pen Set,1,15.97,-0.05
+ORD-00546,2024-08-06,CUST-0042,Kiara Bose,South,Furniture,Office Chair,6,1309.31,180.96
+ORD-00645,2024-07-11,CUST-0045,Tara Singh,North,Apparel,Jacket,10,330.52,109.37
+ORD-00562,2024-02-20,CUST-0099,Vihaan Sharma,East,Office Supplies,Printer Paper,5,84.86,11.41
+ORD-00118,2024-11-02,CUST-0014,Kiara Rao,North,Electronics,Webcam,2,151.98,-1.49
+ORD-00663,2024-08-04,CUST-0054,Saanvi Reddy,South,Office Supplies,Pen Set,11,123.61,21.47
+ORD-00696,2024-07-13,CUST-0002,Saanvi Bose,West,Office Supplies,Pen Set,11,164.51,14.58
+ORD-00789,2024-08-27,CUST-0043,Aditya Mehta,North,Furniture,Office Chair,5,906.29,85.39
+ORD-00130,2024-08-25,CUST-0083,Priya Patel,South,Electronics,USB-C Hub,10,713.93,172.72
+ORD-00091,2024-06-25,CUST-0030,Kabir Mehta,East,Furniture,Bookshelf,6,1089.32,6.15
+ORD-00463,2024-01-15,CUST-0088,Aarav Reddy,South,Apparel,Jacket,11,286.55,-7.42
+ORD-00127,2024-12-29,CUST-0105,Ishaan Bose,South,Furniture,Filing Cabinet,11,2060.76,-23.48
+ORD-00969,2024-07-22,CUST-0018,Vihaan Kapoor,East,Apparel,Cap,9,312.78,77.93
+ORD-00164,2024-02-10,CUST-0115,Ananya Sharma,North,Apparel,Cap,7,200.56,26.86
+ORD-00112,2024-08-07,CUST-0006,Ananya Bose,East,Furniture,Standing Desk,11,2998.44,-99.13
+ORD-00345,2024-02-14,CUST-0031,Ananya Mehta,East,Apparel,T-Shirt,8,211.84,40.63
+ORD-00867,2024-07-14,CUST-0013,Tara Nair,West,Office Supplies,Notebook Pack,9,138.1,8.35
+ORD-00657,2024-11-19,CUST-0062,Kabir Singh,North,Furniture,Office Chair,11,3330.49,639.54
+ORD-01093,2024-07-17,CUST-0054,Saanvi Reddy,West,Furniture,Standing Desk,10,1975.33,-94.37
+ORD-00591,2024-12-08,CUST-0051,Saanvi Reddy,East,Apparel,T-Shirt,10,303.17,-6.53
+ORD-00131,2024-11-15,CUST-0050,Rohan Bose,North,Office Supplies,Notebook Pack,9,135.17,31.01
+ORD-00958,2024-05-14,CUST-0026,Aditya Mehta,West,Office Supplies,Printer Paper,11,153.73,45.17
+ORD-00898,2024-02-26,CUST-0061,Kabir Singh,South,Office Supplies,Stapler,4,53.75,6.8
+ORD-00339,2024-08-29,CUST-0088,Aarav Reddy,South,Electronics,Mechanical Keyboard,7,702.69,182.36
+ORD-00493,2024-03-09,CUST-0073,Kabir Bose,North,Electronics,Wireless Mouse,8,488.58,37.74
+ORD-00941,2024-07-13,CUST-0050,Rohan Bose,West,Office Supplies,Notebook Pack,7,82.42,17.74
+ORD-00073,2024-11-01,CUST-0023,Zara Singh,South,Electronics,Mechanical Keyboard,2,153.0,20.86
+ORD-00003,2024-06-07,CUST-0117,Tara Chopra,South,Office Supplies,Notebook Pack,7,131.5,13.49
+ORD-00017,2024-10-16,CUST-0041,Meera Gupta,South,Electronics,Mechanical Keyboard,7,529.54,23.63
+ORD-00865,2024-01-17,CUST-0050,Rohan Bose,South,Apparel,Jacket,2,70.7,-2.81
+ORD-01085,2024-03-09,CUST-0051,Saanvi Reddy,North,Apparel,Jacket,4,115.02,32.77
+ORD-01006,2024-12-16,CUST-0092,Kiara Bose,South,Furniture,Standing Desk,3,902.14,281.03
+ORD-00013,2024-11-08,CUST-0094,Vihaan Patel,East,Furniture,Standing Desk,4,979.02,197.19
+ORD-00448,2024-05-24,CUST-0018,Vihaan Kapoor,East,Apparel,T-Shirt,5,191.74,9.12
+ORD-00482,2024-01-12,CUST-0092,Kiara Bose,North,Electronics,USB-C Hub,9,563.28,91.42
+ORD-00536,2024-01-28,CUST-0070,Kiara Nair,North,Office Supplies,Stapler,10,93.65,
+ORD-01040,2024-12-24,CUST-0022,Zara Iyer,South,Office Supplies,Printer Paper,9,187.66,58.06
+ORD-00909,2024-04-20,CUST-0100,Arjun Verma,West,Electronics,Mechanical Keyboard,4,280.92,39.85
+ORD-00850,2024-04-28,CUST-0051,Saanvi Reddy,South,Apparel,Jacket,262,20.42,4.63
+ORD-00585,2024-06-25,CUST-0071,Aarav Das,North,Apparel,Cap,7,242.37,47.87
+ORD-00109,2024-08-29,CUST-0110,Arjun Mehta,South,Electronics,Mechanical Keyboard,7,565.49,50.49
+ORD-00525,2024-02-18,CUST-0093,Rohan Mehta,West,Apparel,Hoodie,10,254.4,47.22
+ORD-00891,2024-12-23,CUST-0052,Saanvi Patel,West,Furniture,Standing Desk,10,2128.06,510.25
+ORD-00547,2024-08-07,CUST-0108,Ananya Das,East,Furniture,Filing Cabinet,4,755.31,93.52
+ORD-00182,2024-11-21,CUST-0080,Ananya Iyer,South,Apparel,T-Shirt,1,38.72,12.97
+ORD-00793,2024-01-04,CUST-0075,Meera Verma,North,Furniture,Standing Desk,10,1807.34,344.54
+ORD-00797,2024-12-01,CUST-0071,Aarav Das,East,Furniture,Office Chair,10,1609.31,440.56
+ORD-01095,2024-06-14,CUST-0073,Kabir Bose,South,Electronics,Mechanical Keyboard,3,299.56,56.81
+ORD-00616,2024-11-16,CUST-0072,Aarav Gupta,South,Apparel,T-Shirt,10,344.09,91.94
+ORD-00371,2024-04-24,CUST-0045,Tara Singh,East,Office Supplies,Stapler,4,75.74,7.9
+ORD-00341,2024-07-24,CUST-0050,Rohan Bose,South,Electronics,Webcam,11,1081.81,189.95
+ORD-00506,2024-08-14,CUST-0067,Aarav Rao,South,Furniture,Office Chair,7,1288.0,209.56
+ORD-00347,2024-02-08,CUST-0051,Saanvi Reddy,North,Apparel,Hoodie,1,38.88,2.92
+ORD-00309,2024-08-07,CUST-0095,Kabir Gupta,East,Apparel,Cap,4,147.0,41.72
+ORD-00929,2024-03-10,CUST-0017,Meera Menon,West,Apparel,Cap,4,88.41,2.52
+ORD-00305,2024-03-20,CUST-0008,Kabir Chopra,North,Apparel,T-Shirt,9,338.25,96.39
+ORD-00966,2024-02-29,CUST-0036,Arjun Nair,South,Electronics,USB-C Hub,2,133.21,29.27
+ORD-00513,2024-11-26,CUST-0094,Vihaan Patel,West,Electronics,Webcam,4,371.92,100.72
+ORD-00043,2024-07-08,CUST-0062,Kabir Singh,West,Office Supplies,Pen Set,1,19.42,5.38
+ORD-00758,2024-11-01,CUST-0082,Vihaan Bose,North,Furniture,Standing Desk,4,1012.44,57.63
+ORD-01068,2024-10-03,CUST-0042,Kiara Bose,South,Furniture,Office Chair,2,423.98,134.27
+ORD-01084,2024-04-02,CUST-0061,Kabir Singh,East,Apparel,Jacket,1,36.97,5.19
+ORD-00779,2024-10-25,CUST-0006,Ananya Bose,South,Apparel,Cap,6,233.1,-5.13
+ORD-00853,2024-02-06,CUST-0080,Ananya Iyer,South,Apparel,Hoodie,1,36.49,4.7
+ORD-00990,2024-03-06,CUST-0070,Kiara Nair,North,Furniture,Office Chair,9,2130.58,731.75
+ORD-00460,2024-01-05,CUST-0061,Kabir Singh,South,Furniture,Bookshelf,3,440.12,-13.37
+ORD-00424,2024-02-01,CUST-0094,Vihaan Patel,South,Furniture,Office Chair,3,660.93,210.02
+ORD-00368,2024-04-09,CUST-0019,Tara Singh,South,Office Supplies,Pen Set,2,34.05,4.9
+ORD-00527,2024-05-12,CUST-0082,Vihaan Bose,South,Electronics,Webcam,9,565.31,8.82
+ORD-00295,2024-12-03,CUST-0112,Vihaan Bose,West,Furniture,Office Chair,11,2881.82,261.42
+ORD-00027,2024-12-07,CUST-0115,Ananya Sharma,North,Office Supplies,Pen Set,7,105.76,34.14
+ORD-00607,2024-12-18,CUST-0034,Vivaan Iyer,West,Office Supplies,Printer Paper,2,45.03,14.78
+ORD-00602,2024-04-08,CUST-0090,Priya Nair,South,Apparel,Jacket,5,205.04,24.7
+ORD-00734,2024-09-24,CUST-0067,Aarav Rao,North,Office Supplies,Printer Paper,4,60.67,18.7
+ORD-00511,2024-01-13,CUST-0003,Rohan Kapoor,South,Electronics,Wireless Mouse,9,440.45,84.87
+ORD-00634,2024-02-18,CUST-0005,Aarav Gupta,North,Electronics,Webcam,11,636.67,123.56
+ORD-00354,2024-03-23,CUST-0051,Saanvi Reddy,East,Office Supplies,Pen Set,9,110.36,3.21
+ORD-00539,2024-04-18,CUST-0031,Ananya Mehta,East,Office Supplies,Notebook Pack,8,128.96,9.38
+ORD-00056,2024-05-01,CUST-0118,Saanvi Iyer,East,Electronics,Wireless Mouse,7,648.65,23.05
+ORD-00464,2024-01-25,CUST-0116,Rohan Kapoor,South,Apparel,Cap,6,224.49,8.48
+ORD-00217,2024-12-11,CUST-0079,Kiara Patel,North,Office Supplies,Notebook Pack,5,105.64,33.86
+ORD-00650,2024-07-20,CUST-0077,Kabir Menon,South,Furniture,Office Chair,6,874.18,210.35
+ORD-00041,2024-12-29,CUST-0056,Priya Iyer,West,Furniture,Standing Desk,10,1846.42,474.83
+ORD-00397,2024-12-13,CUST-0017,Meera Menon,North,Furniture,Office Chair,6,1206.55,300.86
+ORD-01083,2024-10-30,CUST-0116,Rohan Kapoor,North,Apparel,Cap,8,269.44,67.92
+ORD-00621,2024-08-22,CUST-0006,Ananya Bose,North,Apparel,Jacket,10,337.78,55.97
+ORD-00833,2024-05-24,CUST-0018,Vihaan Kapoor,,Furniture,Filing Cabinet,4,768.68,
+ORD-00824,2024-11-15,CUST-0106,Saanvi Reddy,South,Furniture,Filing Cabinet,3,881.83,
+ORD-00179,2024-12-20,CUST-0045,Tara Singh,East,Electronics,Webcam,11,1052.04,57.53
+ORD-00177,2024-06-28,CUST-0104,Vivaan Mehta,North,Furniture,Filing Cabinet,5,1155.1,365.18
+ORD-00890,2024-01-04,CUST-0059,Rohan Menon,West,Electronics,27in Monitor,4,299.84,22.31
+ORD-00944,2024-06-25,CUST-0028,Vihaan Bose,East,Apparel,Cap,8,274.18,-4.37
+ORD-00301,2024-10-06,CUST-0025,Kabir Sharma,East,Office Supplies,Printer Paper,8,101.52,10.52
+ORD-01061,2024-12-21,CUST-0011,Zara Gupta,,Electronics,Wireless Mouse,7,397.01,73.43
+ORD-00803,2024-05-15,CUST-0112,Vihaan Bose,West,Office Supplies,Notebook Pack,8,133.19,0.45
+ORD-00848,2024-01-08,CUST-0031,Ananya Mehta,East,Apparel,Cap,2,55.45,4.68
+ORD-00703,2024-06-15,CUST-0059,Rohan Menon,North,Furniture,Standing Desk,10,1619.55,-19.37
+ORD-00519,2024-11-28,CUST-0017,Meera Menon,West,Furniture,Office Chair,1,241.68,36.81
+ORD-00642,2024-01-11,CUST-0035,Kiara Das,West,Office Supplies,Notebook Pack,3,53.77,
+ORD-00783,2024-12-13,CUST-0070,Kiara Nair,East,Office Supplies,Printer Paper,9,156.26,19.74
+ORD-00640,2024-07-15,CUST-0067,Aarav Rao,South,Office Supplies,Stapler,1,20.66,0.94
+ORD-01059,2024-05-10,CUST-0061,Kabir Singh,West,Apparel,Jacket,11,309.96,3.85
+ORD-00030,2024-09-28,CUST-0112,Vihaan Bose,West,Furniture,Filing Cabinet,8,1423.54,388.37
+ORD-00961,2024-06-04,CUST-0098,Tara Reddy,West,Office Supplies,Printer Paper,4,83.78,1.72
+ORD-00931,2024-08-12,CUST-0109,Zara Reddy,West,Apparel,Hoodie,9,304.72,32.33
+ORD-00808,2024-02-28,CUST-0118,Saanvi Iyer,East,Electronics,27in Monitor,11,677.59,52.53
+ORD-00204,2024-03-01,CUST-0058,Ishaan Reddy,South,Office Supplies,Notebook Pack,3,51.3,6.96
+ORD-00445,2024-02-03,CUST-0025,Kabir Sharma,East,Furniture,Bookshelf,9,1203.26,416.38
+ORD-00372,2024-07-15,CUST-0046,Aarav Kapoor,West,Apparel,Jacket,8,339.51,56.91
+ORD-00033,2024-06-04,CUST-0106,Saanvi Reddy,West,Furniture,Office Chair,6,1172.83,329.25
+ORD-00971,2024-06-12,CUST-0055,Rohan Gupta,South,Electronics,Wireless Mouse,7,689.52,-18.6
+ORD-00335,2024-10-21,CUST-0048,Priya Patel,West,Office Supplies,Notebook Pack,10,203.65,62.94
+ORD-00383,2024-05-11,CUST-0002,Saanvi Bose,West,Furniture,Bookshelf,11,1964.28,35.12
+ORD-01002,2024-09-15,CUST-0104,Vivaan Mehta,East,Apparel,Jacket,4,101.81,2.12
+ORD-00937,2024-08-01,CUST-0008,Kabir Chopra,South,Office Supplies,Printer Paper,9,171.07,6.85
+ORD-00373,2024-06-24,CUST-0007,Arjun Sharma,North,Office Supplies,Stapler,11,217.02,1.51
+ORD-00749,2024-10-21,CUST-0064,Kiara Iyer,South,Office Supplies,Stapler,2,37.74,11.96
+ORD-00574,2024-08-13,CUST-0001,Kiara Singh,West,Furniture,Office Chair,4,1116.27,310.89
+ORD-00004,2024-01-12,CUST-0044,Kiara Chopra,West,Apparel,Hoodie,5,126.41,32.13
+ORD-00586,2024-08-31,CUST-0028,Vihaan Bose,East,Apparel,T-Shirt,3,86.92,15.18
+ORD-00430,2024-02-10,CUST-0047,Kabir Verma,South,Electronics,USB-C Hub,8,510.46,139.01
+ORD-00883,2024-03-19,CUST-0075,Meera Verma,West,Electronics,Wireless Mouse,3,252.67,30.6
+ORD-00972,2024-02-23,CUST-0089,Kiara Rao,South,Office Supplies,Notebook Pack,1,14.11,2.91
+ORD-00446,2024-04-06,CUST-0075,Meera Verma,West,Office Supplies,Printer Paper,1,9.65,2.26
+ORD-00042,2024-09-04,CUST-0080,Ananya Iyer,South,Furniture,Filing Cabinet,7,1381.14,105.83
+ORD-00223,2024-03-05,CUST-0072,Aarav Gupta,East,Office Supplies,Printer Paper,10,140.11,30.68
+ORD-01035,2024-05-31,CUST-0096,Kabir Kapoor,South,Electronics,Mechanical Keyboard,10,766.26,258.75
+ORD-00781,2024-09-16,CUST-0090,Priya Nair,North,Apparel,T-Shirt,6,237.75,63.58
+ORD-00740,2024-11-01,CUST-0065,Meera Rao,East,Electronics,Wireless Mouse,3,271.04,21.57
+ORD-00114,2024-12-08,CUST-0087,Rohan Patel,North,Electronics,USB-C Hub,7,410.96,12.74
+ORD-00049,2024-10-07,CUST-0072,Aarav Gupta,East,Apparel,Hoodie,7,311.16,77.82
+ORD-00290,2024-11-17,CUST-0110,Arjun Mehta,North,Office Supplies,Printer Paper,10,117.32,12.63
+ORD-00077,2024-01-05,CUST-0029,Zara Singh,East,Electronics,27in Monitor,5,408.89,-8.47
+ORD-00207,2024-08-05,CUST-0047,Kabir Verma,South,Office Supplies,Printer Paper,4,71.31,11.57
+ORD-00633,2024-02-19,CUST-0096,Kabir Kapoor,South,Electronics,Webcam,6,544.32,139.43
+ORD-00124,2024-09-08,CUST-0039,Rohan Chopra,West,Electronics,USB-C Hub,11,659.18,195.4
+ORD-00920,2024-04-25,CUST-0077,Kabir Menon,West,Office Supplies,Stapler,3,54.32,-1.16
+ORD-00387,2024-11-25,CUST-0050,Rohan Bose,North,Furniture,Filing Cabinet,4,773.85,40.26
+ORD-00226,2024-08-06,CUST-0017,Meera Menon,North,Apparel,Hoodie,6,180.76,19.36
+ORD-00959,2024-09-04,CUST-0039,Rohan Chopra,North,Electronics,Webcam,4,330.29,85.36
+ORD-00598,2024-10-16,CUST-0038,Kabir Sharma,East,Furniture,Bookshelf,3,681.11,161.55
+ORD-00222,2024-10-22,CUST-0065,Meera Rao,East,Apparel,T-Shirt,3,138.18,33.33
+ORD-00956,2024-08-04,CUST-0113,Kiara Iyer,South,Office Supplies,Stapler,1,15.8,2.46
+ORD-00949,2024-03-01,CUST-0045,Tara Singh,North,Apparel,Cap,7,185.1,28.01
+ORD-00881,2024-10-16,CUST-0004,Zara Nair,North,Furniture,Standing Desk,11,3031.27,-69.57
+ORD-00834,2024-06-03,CUST-0029,Zara Singh,South,Furniture,Standing Desk,10,2061.96,573.06
+ORD-00162,2024-04-20,CUST-0031,Ananya Mehta,North,Apparel,Jacket,2,55.94,7.25
+ORD-00906,2024-04-12,CUST-0067,Aarav Rao,South,Apparel,Cap,8,216.3,-4.58
+ORD-00796,2024-08-28,CUST-0100,Arjun Verma,North,Apparel,Jacket,3,93.79,10.01
+ORD-00326,2024-04-14,CUST-0032,Ishaan Nair,South,Electronics,Mechanical Keyboard,6,417.71,24.23
+ORD-00827,2024-06-25,CUST-0002,Saanvi Bose,West,Apparel,Jacket,3,117.83,38.98
+ORD-00750,2024-07-15,CUST-0046,Aarav Kapoor,South,Office Supplies,Pen Set,7,126.12,
+ORD-00140,2024-02-19,CUST-0097,Aarav Sharma,West,Apparel,Cap,2,77.85,2.42
+ORD-00800,2024-08-26,CUST-0012,Diya Gupta,North,Office Supplies,Notebook Pack,6,127.07,1.95
+ORD-00930,2024-11-12,CUST-0041,Meera Gupta,West,Office Supplies,Notebook Pack,9,170.17,2.32
+ORD-00573,2024-11-15,CUST-0076,Zara Chopra,North,Apparel,T-Shirt,3,144.63,8.69
+ORD-00353,2024-07-26,CUST-0019,Tara Singh,East,Electronics,Mechanical Keyboard,1,75.28,19.31
+ORD-00166,2024-09-29,CUST-0055,Rohan Gupta,West,Apparel,T-Shirt,1,31.92,0.92
+ORD-00215,2024-06-25,CUST-0118,Saanvi Iyer,East,Apparel,Hoodie,2,64.87,18.02
+ORD-00798,2024-05-18,CUST-0040,Saanvi Iyer,South,Furniture,Office Chair,2,365.76,36.33
+ORD-00298,2024-02-07,CUST-0079,Kiara Patel,North,Furniture,Office Chair,1,174.32,60.28
+ORD-00395,2024-12-08,CUST-0001,Kiara Singh,North,Apparel,T-Shirt,8,273.82,68.25
+ORD-00132,2024-12-28,CUST-0059,Rohan Menon,South,Electronics,USB-C Hub,11,837.38,-22.79
+ORD-00315,2024-12-06,CUST-0059,Rohan Menon,East,Apparel,Jacket,11,405.6,107.11
+ORD-00139,2024-06-03,CUST-0070,Kiara Nair,North,Office Supplies,Notebook Pack,8,165.24,56.56
+ORD-00908,2024-10-15,CUST-0065,Meera Rao,West,Electronics,Webcam,5,412.85,108.33
+ORD-00901,2024-07-22,CUST-0062,Kabir Singh,North,Apparel,Jacket,10,415.83,34.41
+ORD-00417,2024-09-08,CUST-0052,Saanvi Patel,East,Office Supplies,Notebook Pack,3,38.1,11.8
+ORD-00861,2024-06-13,CUST-0040,Saanvi Iyer,South,Furniture,Bookshelf,11,2774.42,210.35
+ORD-00039,2024-11-09,CUST-0039,Rohan Chopra,South,Furniture,Standing Desk,10,1791.43,401.67
+ORD-00250,2024-07-06,CUST-0077,Kabir Menon,South,Furniture,Standing Desk,9,1120.37,-9.68
+ORD-00771,2024-04-29,CUST-0041,Meera Gupta,South,Furniture,Filing Cabinet,11,1732.43,135.54
+ORD-00054,2024-10-06,CUST-0054,Saanvi Reddy,North,Apparel,Cap,7,194.72,22.79
+ORD-00137,2024-08-20,CUST-0026,Aditya Mehta,East,Furniture,Bookshelf,11,1967.5,536.93
+ORD-00814,2024-11-24,CUST-0011,Zara Gupta,West,Apparel,Hoodie,3,106.19,29.49
+ORD-00826,2024-06-12,CUST-0036,Arjun Nair,North,Electronics,27in Monitor,2,182.85,-3.41
+ORD-00036,2024-10-31,CUST-0031,Ananya Mehta,East,Office Supplies,Pen Set,7,130.02,3.04
+ORD-00934,2024-04-02,CUST-0044,Kiara Chopra,South,Furniture,Office Chair,9,1783.54,-39.22
+ORD-00379,2024-08-11,CUST-0112,Vihaan Bose,East,Office Supplies,Notebook Pack,5,78.18,24.27
+ORD-00846,2024-01-19,CUST-0094,Vihaan Patel,South,Electronics,27in Monitor,8,8431.59,210.14
+ORD-00579,2024-01-20,CUST-0035,Kiara Das,West,Office Supplies,Notebook Pack,9,105.34,10.67
+ORD-00820,2024-08-05,CUST-0108,Ananya Das,West,Apparel,T-Shirt,5,146.28,39.97
+ORD-00660,2024-04-24,CUST-0027,Kiara Rao,East,Furniture,Filing Cabinet,7,1365.06,404.57
+ORD-00053,2024-12-16,CUST-0016,Rohan Patel,North,Furniture,Filing Cabinet,6,1261.28,72.97
+ORD-00378,2024-04-25,CUST-0013,Tara Nair,West,Electronics,27in Monitor,8,715.34,204.71
+ORD-00877,2024-03-22,CUST-0028,Vihaan Bose,South,Office Supplies,Pen Set,5,65.35,1.56
+ORD-00742,2024-02-20,CUST-0071,Aarav Das,South,Apparel,Cap,4,139.03,20.17
+ORD-00303,2024-10-31,CUST-0094,Vihaan Patel,East,Furniture,Standing Desk,6,1296.68,116.5
+ORD-00247,2024-11-13,CUST-0037,Tara Reddy,East,Furniture,Office Chair,8,1906.12,48.16
+ORD-01091,2024-01-30,CUST-0070,Kiara Nair,South,Electronics,Wireless Mouse,9,577.52,150.49
+ORD-00426,2024-08-15,CUST-0011,Zara Gupta,South,Electronics,USB-C Hub,3,240.28,37.53
+ORD-00725,2024-09-30,CUST-0054,Saanvi Reddy,North,Office Supplies,Stapler,10,165.97,28.48
+ORD-00029,2024-10-16,CUST-0002,Saanvi Bose,North,Office Supplies,Printer Paper,3,67.51,1.97
+ORD-00766,2024-12-20,CUST-0060,Ishaan Patel,West,Office Supplies,Notebook Pack,1,20.54,5.46
+ORD-00799,2024-05-22,CUST-0073,Kabir Bose,North,Office Supplies,Printer Paper,8,116.46,15.21
+ORD-00245,2024-11-19,CUST-0074,Vivaan Singh,North,Electronics,Wireless Mouse,10,1038.41,359.55
+ORD-00104,2024-03-20,CUST-0050,Rohan Bose,South,Apparel,T-Shirt,5,155.08,19.09
+ORD-00277,2024-04-01,CUST-0085,Ishaan Bose,West,Apparel,Hoodie,8,204.51,
+ORD-00394,2024-03-25,CUST-0075,Meera Verma,South,Electronics,27in Monitor,10,861.42,199.27
+ORD-00111,2024-07-23,CUST-0088,Aarav Reddy,North,Apparel,Hoodie,3,94.95,32.91
+ORD-00684,2024-02-13,CUST-0077,Kabir Menon,South,Electronics,Webcam,2,136.96,3.88
+ORD-00160,2024-09-10,CUST-0098,Tara Reddy,North,Office Supplies,Printer Paper,5,112.77,-0.28
+ORD-00113,2024-10-19,CUST-0034,Vivaan Iyer,East,Office Supplies,Pen Set,8,104.19,8.46
+ORD-00697,2024-04-27,CUST-0048,Priya Patel,East,Apparel,Hoodie,2,61.19,2.99
+ORD-00678,2024-09-30,CUST-0017,Meera Menon,South,Furniture,Bookshelf,10,2525.56,857.55
+ORD-00330,2024-03-05,CUST-0119,Zara Rao,North,Electronics,Mechanical Keyboard,9,633.06,116.58
+ORD-00263,2024-06-17,CUST-0088,Aarav Reddy,South,Furniture,Standing Desk,5,1132.66,168.69
+ORD-00948,2024-04-28,CUST-0087,Rohan Patel,West,Apparel,T-Shirt,2,46.52,14.2
+ORD-00638,2024-08-23,CUST-0113,Kiara Iyer,East,Electronics,27in Monitor,6,444.04,
+ORD-01037,2024-03-30,CUST-0048,Priya Patel,West,Apparel,T-Shirt,7,147.89,22.22
+ORD-00168,2024-12-01,CUST-0054,Saanvi Reddy,North,Electronics,27in Monitor,4,336.94,57.27
+ORD-01032,2024-05-18,CUST-0091,Tara Sharma,North,Apparel,Hoodie,11,221.26,68.52
+ORD-00155,2024-12-29,CUST-0078,Rohan Bose,West,Office Supplies,Printer Paper,6,88.25,5.64
+ORD-00051,2024-05-20,CUST-0060,Ishaan Patel,East,Furniture,Office Chair,2,345.68,6.74
+ORD-00025,2024-01-16,CUST-0016,Rohan Patel,West,Office Supplies,Stapler,1,16.33,-0.72
+ORD-01042,2024-12-29,CUST-0031,Ananya Mehta,North,Furniture,Filing Cabinet,8,1600.01,443.76
+ORD-00444,2024-05-02,CUST-0075,Meera Verma,South,Electronics,Wireless Mouse,8,567.93,133.99
+ORD-00151,2024-06-19,CUST-0010,Vivaan Mehta,East,Electronics,Wireless Mouse,7,580.84,171.66
+ORD-00554,2024-04-21,CUST-0074,Vivaan Singh,North,Furniture,Filing Cabinet,8,1310.42,444.07
+ORD-00095,2024-03-19,CUST-0047,Kabir Verma,West,Apparel,Cap,4,145.77,7.47
+ORD-00218,2024-12-22,CUST-0098,Tara Reddy,South,Furniture,Standing Desk,1,203.38,25.92
+ORD-00646,2024-05-19,CUST-0107,Aarav Patel,South,Apparel,Hoodie,6,129.33,14.6
+ORD-00382,2024-02-08,CUST-0108,Ananya Das,North,Apparel,Hoodie,6,197.88,-5.97
+ORD-00024,2024-01-01,CUST-0087,Rohan Patel,West,Office Supplies,Notebook Pack,4,62.64,2.11
+ORD-00293,2024-04-01,CUST-0066,Diya Nair,North,Furniture,Office Chair,1,199.05,-3.9
+ORD-00174,2024-04-13,CUST-0041,Meera Gupta,South,Apparel,Jacket,10,261.17,40.11
+ORD-00101,2024-08-14,CUST-0111,Meera Kapoor,North,Apparel,Cap,9,324.45,85.44
+ORD-00026,2024-08-27,CUST-0058,Ishaan Reddy,South,Apparel,Jacket,5,210.35,33.51
+ORD-00875,2024-09-06,CUST-0060,Ishaan Patel,East,Office Supplies,Notebook Pack,3,43.59,5.91
+ORD-00932,2024-12-02,CUST-0099,Vihaan Sharma,West,Office Supplies,Stapler,3,57.16,-1.48
+ORD-00782,2024-05-07,CUST-0097,Aarav Sharma,South,Electronics,Webcam,6,515.98,3.4
+ORD-00490,2024-04-04,CUST-0090,Priya Nair,West,Apparel,Hoodie,2,52.46,-2.54
+ORD-00895,2024-06-14,CUST-0028,Vihaan Bose,East,Apparel,T-Shirt,7,217.57,54.28
+ORD-00355,2024-03-06,CUST-0037,Tara Reddy,North,Office Supplies,Pen Set,3,45.41,-0.19
+ORD-00794,2024-04-02,CUST-0070,Kiara Nair,South,Apparel,Hoodie,4,134.87,20.24
+ORD-00589,2024-11-22,CUST-0066,Diya Nair,East,Office Supplies,Pen Set,1,23.11,0.34
+ORD-00243,2024-03-01,CUST-0016,Rohan Patel,West,Furniture,Office Chair,11,2218.98,198.66
+ORD-00169,2024-05-23,CUST-0007,Arjun Sharma,West,Office Supplies,Pen Set,8,120.62,-1884.2
+ORD-00074,2024-06-15,CUST-0107,Aarav Patel,East,Electronics,USB-C Hub,11,620.69,111.04
+ORD-00560,2024-01-16,CUST-0032,Ishaan Nair,South,Apparel,Jacket,1,26.08,8.43
+ORD-00922,2024-10-03,CUST-0016,Rohan Patel,West,Office Supplies,Notebook Pack,4,63.56,-0.01
+ORD-00529,2024-05-02,CUST-0026,Aditya Mehta,West,Furniture,Filing Cabinet,1,157.96,24.98
+ORD-00119,2024-04-05,CUST-0052,Saanvi Patel,West,Electronics,Mechanical Keyboard,4,294.45,-4.53
+ORD-00115,2024-11-04,CUST-0061,Kabir Singh,North,Furniture,Bookshelf,1,291.31,36.15
+ORD-00521,2024-06-21,CUST-0011,Zara Gupta,West,Furniture,Filing Cabinet,8,1643.55,157.66
+ORD-00006,2024-04-03,CUST-0082,Vihaan Bose,North,Electronics,27in Monitor,11,717.73,14.87
+ORD-00476,2024-06-17,CUST-0106,Saanvi Reddy,West,Electronics,27in Monitor,11,1085.22,55.84
+ORD-00807,2024-04-04,CUST-0089,Kiara Rao,North,Furniture,Standing Desk,9,1771.58,376.01
+ORD-00720,2024-07-11,CUST-0005,Aarav Gupta,North,Electronics,Mechanical Keyboard,9,799.95,109.55
+ORD-00070,2024-06-28,CUST-0018,Vihaan Kapoor,East,Office Supplies,Notebook Pack,5,67.09,22.49
+ORD-00015,2024-04-02,CUST-0066,Diya Nair,North,Electronics,USB-C Hub,11,1061.51,44.87
+ORD-00863,2024-10-19,CUST-0013,Tara Nair,North,Apparel,Jacket,11,397.93,
+ORD-00762,2024-10-14,CUST-0085,Ishaan Bose,South,Electronics,Wireless Mouse,1,113.56,-4.38
+ORD-00370,2024-12-31,CUST-0075,Meera Verma,West,Furniture,Office Chair,5,1253.91,
+ORD-00079,2024-12-23,CUST-0090,Priya Nair,North,Furniture,Standing Desk,5,1051.16,-18.13
+ORD-01050,2024-03-14,CUST-0104,Vivaan Mehta,West,Apparel,Cap,2,53.39,3.35
+ORD-00480,2024-05-03,CUST-0019,Tara Singh,North,Office Supplies,Printer Paper,2,35.32,7.74
+ORD-00894,2024-09-24,CUST-0112,Vihaan Bose,West,Furniture,Office Chair,5,1234.41,390.93
+ORD-01024,2024-11-07,CUST-0113,Kiara Iyer,West,Furniture,Office Chair,11,2628.23,606.57
+ORD-00653,2024-06-01,CUST-0068,Zara Verma,West,Apparel,Cap,3,65.76,17.46
+ORD-00055,2024-06-21,CUST-0074,Vivaan Singh,North,Apparel,Cap,11,468.4,101.8
+ORD-00468,2024-08-09,CUST-0046,Aarav Kapoor,North,Electronics,USB-C Hub,11,909.71,298.98
+ORD-00267,2024-05-24,CUST-0044,Kiara Chopra,North,Furniture,Bookshelf,8,1875.17,487.96
+ORD-00974,2024-04-21,CUST-0084,Aarav Iyer,West,Electronics,Wireless Mouse,11,787.87,23.27
+ORD-00916,2024-02-28,CUST-0053,Vivaan Sharma,South,Furniture,Office Chair,5,871.17,-36.11
+ORD-00515,2024-09-29,CUST-0057,Ishaan Chopra,East,Electronics,Webcam,6,370.98,64.43
+ORD-00538,2024-03-12,CUST-0028,Vihaan Bose,South,Furniture,Filing Cabinet,7,1281.15,-6.99
+ORD-00060,2024-05-19,CUST-0048,Priya Patel,North,Office Supplies,Printer Paper,8,107.81,12.77
+ORD-00504,2024-04-15,CUST-0080,Ananya Iyer,South,Office Supplies,Notebook Pack,8,137.83,45.64
+ORD-00745,2024-01-28,CUST-0092,Kiara Bose,North,Electronics,27in Monitor,9,440.75,75.95
+ORD-00167,2024-04-17,CUST-0079,Kiara Patel,South,Furniture,Filing Cabinet,7,1502.36,484.63
+ORD-00852,2024-07-02,CUST-0007,Arjun Sharma,East,Office Supplies,Notebook Pack,5,86.56,24.88
+ORD-00332,2024-04-28,CUST-0045,Tara Singh,West,Furniture,Office Chair,11,1955.53,294.79
+ORD-01046,2024-02-24,CUST-0110,Arjun Mehta,East,Office Supplies,Pen Set,7,78.18,1.95
+ORD-00887,2024-06-29,CUST-0072,Aarav Gupta,North,Electronics,USB-C Hub,4,315.46,2.05
+ORD-00248,2024-11-12,CUST-0022,Zara Iyer,South,Apparel,Cap,8,330.29,-5.85
+ORD-00374,2024-01-11,CUST-0002,Saanvi Bose,East,Electronics,Webcam,9,548.95,183.49
+ORD-00778,2024-07-23,CUST-0031,Ananya Mehta,North,Office Supplies,Printer Paper,7,104.91,14.99
+ORD-00473,2024-11-12,CUST-0097,Aarav Sharma,North,Furniture,Standing Desk,1,287.95,21.74
+ORD-00500,2024-03-27,CUST-0081,Rohan Iyer,East,Electronics,USB-C Hub,5,385.28,107.22
+ORD-00784,2024-03-04,CUST-0041,Meera Gupta,South,Furniture,Bookshelf,4,938.52,-41.9
+ORD-01015,2024-06-07,CUST-0088,Aarav Reddy,West,Apparel,Jacket,8,250.39,45.46
+ORD-00637,2024-09-19,CUST-0093,Rohan Mehta,South,Furniture,Filing Cabinet,2,488.87,126.28
+ORD-00617,2024-01-22,CUST-0101,Ishaan Menon,West,Apparel,Cap,11,339.91,34.3
+ORD-00564,2024-04-08,CUST-0112,Vihaan Bose,West,Furniture,Standing Desk,4,650.22,131.44
+ORD-00996,2024-05-17,CUST-0012,Diya Gupta,East,Electronics,Webcam,8,747.68,-9.05
+ORD-00308,2024-10-27,CUST-0048,Priya Patel,West,Electronics,Mechanical Keyboard,3,192.21,54.39
+ORD-00983,2024-10-01,CUST-0076,Zara Chopra,West,Apparel,Jacket,9,387.04,38.49
+ORD-00739,2024-07-23,CUST-0007,Arjun Sharma,West,Apparel,Cap,2,76.28,16.75
+ORD-00721,2024-07-25,CUST-0080,Ananya Iyer,West,Office Supplies,Notebook Pack,7,125.05,9.41
+ORD-00567,2024-01-17,CUST-0066,Diya Nair,West,Electronics,Webcam,6,372.84,66.38
+ORD-00502,2024-08-05,CUST-0040,Saanvi Iyer,West,Office Supplies,Notebook Pack,1,18.05,1.96
+ORD-00854,2024-01-17,CUST-0066,Diya Nair,West,Apparel,Jacket,5,179.19,30.3
+ORD-00235,2024-06-22,CUST-0083,Priya Patel,East,Electronics,Wireless Mouse,3,216.54,31.49
+ORD-00627,2024-09-18,CUST-0043,Aditya Mehta,West,Electronics,Webcam,5,462.9,106.18
+ORD-00885,2024-11-01,CUST-0016,Rohan Patel,South,Apparel,Cap,4,141.05,29.38
+ORD-00431,2024-03-22,CUST-0013,Tara Nair,West,Electronics,Webcam,7,596.39,173.32
+ORD-00774,2024-04-29,CUST-0116,Rohan Kapoor,South,Office Supplies,Notebook Pack,10,178.7,42.64
+ORD-00192,2024-10-07,CUST-0048,Priya Patel,South,Electronics,27in Monitor,7,731.31,237.66
+ORD-00757,2024-10-10,CUST-0102,Vivaan Singh,East,Electronics,Mechanical Keyboard,3,336.38,11.7
+ORD-00152,2024-06-20,CUST-0089,Kiara Rao,East,Furniture,Filing Cabinet,2,442.96,113.65
+ORD-00692,2024-12-14,CUST-0026,Aditya Mehta,West,Furniture,Standing Desk,11,1702.5,594.51
+ORD-00436,2024-06-12,CUST-0074,Vivaan Singh,East,Electronics,USB-C Hub,5,489.09,105.9
+ORD-00667,2024-10-28,CUST-0091,Tara Sharma,West,Office Supplies,Stapler,10,216.12,31.26
+ORD-00257,2024-03-29,CUST-0006,Ananya Bose,East,Apparel,T-Shirt,8,235.78,23.36
+ORD-00950,2024-12-03,CUST-0070,Kiara Nair,North,Apparel,Jacket,10,409.85,139.97
+ORD-00822,2024-04-03,CUST-0074,Vivaan Singh,East,Office Supplies,Printer Paper,6,100.21,0.24
+ORD-00962,2024-01-06,CUST-0094,Vihaan Patel,West,Electronics,Wireless Mouse,2,99.25,15.41
+ORD-00688,2024-02-18,CUST-0006,Ananya Bose,East,Apparel,Hoodie,1,21.94,1.81
+ORD-00542,2024-03-01,CUST-0107,Aarav Patel,West,Electronics,27in Monitor,5,418.92,138.73
+ORD-00639,2024-11-01,CUST-0104,Vivaan Mehta,North,Furniture,Standing Desk,11,2138.28,186.82
+ORD-00570,2024-04-02,CUST-0056,Priya Iyer,South,Apparel,T-Shirt,10,349.51,69.34
+ORD-00583,2024-11-26,CUST-0037,Tara Reddy,South,Apparel,Hoodie,9,310.99,66.03
+ORD-00384,2024-03-24,CUST-0038,Kabir Sharma,South,Apparel,Hoodie,2,48.23,15.39
+ORD-00146,2024-12-13,CUST-0050,Rohan Bose,East,Electronics,27in Monitor,4,474.78,51.1
+ORD-00995,2024-04-14,CUST-0039,Rohan Chopra,West,Electronics,27in Monitor,8,503.42,144.39
+ORD-01063,2024-03-01,CUST-0031,Ananya Mehta,North,Office Supplies,Printer Paper,5,82.6,20.54
+ORD-00534,2024-12-31,CUST-0042,Kiara Bose,East,Electronics,27in Monitor,6,699.21,-21.97
+ORD-00216,2024-01-03,CUST-0030,Kabir Mehta,East,Apparel,T-Shirt,10,372.29,91.66
+ORD-00942,2024-06-22,CUST-0009,Aditya Kapoor,East,Furniture,Office Chair,2,328.07,46.4
+ORD-00662,2024-01-24,CUST-0087,Rohan Patel,North,Electronics,USB-C Hub,6,544.85,107.96
+ORD-00819,2024-12-07,CUST-0003,Rohan Kapoor,West,Electronics,Webcam,1,62.72,16.69
+ORD-00743,2024-05-26,CUST-0020,Diya Menon,North,Office Supplies,Pen Set,2,27.63,2.91
+ORD-00197,2024-04-23,CUST-0054,Saanvi Reddy,North,Electronics,Webcam,5,366.92,104.49
+ORD-00932,2024-12-02,CUST-0099,Vihaan Sharma,West,Office Supplies,Stapler,3,57.16,-1.48
+ORD-00496,2024-12-22,CUST-0101,Ishaan Menon,North,Office Supplies,Stapler,4,70.08,7.57
+ORD-00592,2024-05-08,CUST-0066,Diya Nair,East,Electronics,Webcam,5,401.22,32.26
+ORD-00018,2024-11-30,CUST-0013,Tara Nair,West,Furniture,Filing Cabinet,9,1902.34,484.01
+ORD-00714,2024-01-25,CUST-0037,Tara Reddy,North,Furniture,Bookshelf,3,569.36,71.2
+ORD-00960,2024-05-03,CUST-0019,Tara Singh,South,Office Supplies,Notebook Pack,9,178.64,36.89
+ORD-00028,2024-08-18,CUST-0015,Kabir Mehta,South,Electronics,Webcam,7,480.41,-9.77
+ORD-00278,2024-01-25,CUST-0037,Tara Reddy,East,Office Supplies,Pen Set,5,72.55,20.77
+ORD-00632,2024-04-10,CUST-0093,Rohan Mehta,West,Apparel,Hoodie,2,72.97,7.33
+ORD-00396,2024-05-27,CUST-0006,Ananya Bose,North,Office Supplies,Stapler,1,19.0,3.7
+ORD-00229,2024-06-07,CUST-0037,Tara Reddy,South,Furniture,Office Chair,11,2153.02,89.45
+ORD-00321,2024-09-05,CUST-0051,Saanvi Reddy,West,Electronics,USB-C Hub,9,880.33,278.59
+ORD-00682,2024-01-02,CUST-0054,Saanvi Reddy,North,Office Supplies,Stapler,1,17.62,1.57
+ORD-00148,2024-01-05,CUST-0085,Ishaan Bose,North,Apparel,Hoodie,4,147.78,-6.5
+ORD-00727,2024-10-02,CUST-0039,Rohan Chopra,South,Furniture,Bookshelf,2,434.08,99.74
+ORD-01022,2024-07-20,CUST-0051,Saanvi Reddy,North,Furniture,Bookshelf,6,817.29,3.35
+ORD-00239,2024-03-28,CUST-0062,Kabir Singh,South,Furniture,Filing Cabinet,5,894.17,106.03
+ORD-00495,2024-05-02,CUST-0110,Arjun Mehta,East,Office Supplies,Pen Set,6,107.01,15.69
+ORD-00599,2024-09-23,CUST-0117,Tara Chopra,West,Electronics,27in Monitor,9,796.43,39.13
+ORD-00450,2024-03-02,CUST-0015,Kabir Mehta,West,Electronics,USB-C Hub,3,136.63,6.65
+ORD-00947,2024-08-16,CUST-0019,Tara Singh,South,Electronics,Webcam,6,582.49,102.37
+ORD-00878,2024-09-15,CUST-0088,Aarav Reddy,South,Apparel,T-Shirt,4,140.95,42.46
+ORD-00107,2024-07-10,CUST-0060,Ishaan Patel,South,Apparel,Cap,4,155.43,3.83
+ORD-00351,2024-04-02,CUST-0070,Kiara Nair,East,Apparel,Hoodie,1,26.41,6.44
+ORD-00524,2024-11-04,CUST-0087,Rohan Patel,South,Electronics,USB-C Hub,10,831.73,125.03
+ORD-00651,2024-07-30,CUST-0085,Ishaan Bose,South,Electronics,Wireless Mouse,5,394.42,112.78
+ORD-00390,2024-07-30,CUST-0077,Kabir Menon,West,Furniture,Standing Desk,10,2305.83,514.07
+ORD-00449,2024-09-12,CUST-0112,Vihaan Bose,East,Office Supplies,Notebook Pack,6,98.47,-4.84
+ORD-00094,2024-10-22,CUST-0026,Aditya Mehta,South,Apparel,Jacket,5,223.84,25.22
+ORD-00260,2024-02-02,CUST-0046,Aarav Kapoor,East,Apparel,T-Shirt,7,189.81,-1230.93
+ORD-00555,2024-12-01,CUST-0015,Kabir Mehta,West,Electronics,27in Monitor,9,580.99,82.33
+ORD-00676,2024-07-04,CUST-0039,Rohan Chopra,East,Office Supplies,Printer Paper,5,95.78,26.34
+ORD-01065,2024-03-10,CUST-0092,Kiara Bose,South,Apparel,T-Shirt,5,120.12,21.09
+ORD-00171,2024-06-04,CUST-0047,Kabir Verma,East,Furniture,Bookshelf,7,1801.3,153.54
+ORD-00255,2024-08-12,CUST-0077,Kabir Menon,South,Furniture,Bookshelf,9,2349.72,15.2
+ORD-00732,2024-01-05,CUST-0112,Vihaan Bose,North,Furniture,Filing Cabinet,7,1566.31,95.03
+ORD-00603,2024-06-30,CUST-0046,Aarav Kapoor,North,Apparel,Hoodie,5,113.51,34.46
+ORD-00253,2024-02-21,CUST-0119,Zara Rao,South,Apparel,Jacket,8,298.44,80.38
+ORD-00307,2024-02-18,CUST-0061,Kabir Singh,North,Electronics,USB-C Hub,5,311.27,81.36
+ORD-00548,2024-10-28,CUST-0107,Aarav Patel,South,Electronics,Mechanical Keyboard,6,655.92,-4.19
+ORD-00987,2024-08-13,CUST-0039,Rohan Chopra,North,Electronics,27in Monitor,1,101.2,16.33
+ORD-01098,2024-06-10,CUST-0070,Kiara Nair,East,Electronics,Wireless Mouse,1,95.93,22.53
+ORD-00892,2024-05-13,CUST-0049,Tara Mehta,South,Electronics,USB-C Hub,1,88.82,21.37
+ORD-00429,2024-11-24,CUST-0092,Kiara Bose,North,Apparel,Cap,10,310.3,68.66
+ORD-00187,2024-03-31,CUST-0091,Tara Sharma,South,Furniture,Filing Cabinet,2,352.29,8.57
+ORD-00816,2024-03-18,CUST-0094,Vihaan Patel,South,Electronics,Wireless Mouse,4,372.89,4.17
+ORD-00270,2024-04-19,CUST-0117,Tara Chopra,East,Office Supplies,Pen Set,8,114.06,26.56
+ORD-00700,2024-11-18,CUST-0020,Diya Menon,North,Electronics,Wireless Mouse,7,653.78,166.96
+ORD-00631,2024-11-12,CUST-0047,Kabir Verma,North,Office Supplies,Stapler,5,106.94,10.1
+ORD-00163,2024-03-17,CUST-0003,Rohan Kapoor,East,Electronics,Mechanical Keyboard,4,237.44,58.76
+ORD-00414,2024-02-26,CUST-0076,Zara Chopra,North,Furniture,Bookshelf,3,708.75,188.83
+ORD-00957,2024-11-24,CUST-0116,Rohan Kapoor,North,Apparel,Hoodie,8,228.11,37.55
+ORD-00979,2024-11-04,CUST-0013,Tara Nair,North,Office Supplies,Pen Set,9,190.73,30.74
+ORD-00099,2024-01-18,CUST-0047,Kabir Verma,North,Apparel,Jacket,11,356.21,-8.26
+ORD-00007,2024-07-14,CUST-0112,Vihaan Bose,South,Office Supplies,Pen Set,9,99.7,31.48
+ORD-00818,2024-08-13,CUST-0113,Kiara Iyer,South,Apparel,T-Shirt,4,123.41,6.43
+ORD-00976,2024-01-26,CUST-0085,Ishaan Bose,West,Electronics,27in Monitor,4,339.53,40.85
+ORD-00992,2024-04-13,CUST-0006,Ananya Bose,West,Furniture,Standing Desk,3,544.69,79.34
+ORD-00804,2024-11-15,CUST-0119,Zara Rao,South,Apparel,Cap,5,240.84,7.93
+ORD-00687,2024-05-14,CUST-0092,Kiara Bose,,Electronics,27in Monitor,2,198.77,22.82
+ORD-00246,2024-12-13,CUST-0017,Meera Menon,South,Electronics,27in Monitor,9,968.37,-22.59
+ORD-00612,2024-02-04,CUST-0030,Kabir Mehta,North,Apparel,Jacket,9,191.67,40.37
+ORD-00230,2024-11-30,CUST-0003,Rohan Kapoor,North,Apparel,Hoodie,11,391.4,81.73
+ORD-00265,2024-05-19,CUST-0102,Vivaan Singh,West,Apparel,Hoodie,9,249.94,59.6
+ORD-00369,2024-03-02,CUST-0116,Rohan Kapoor,South,Furniture,Filing Cabinet,8,1043.34,188.2
+ORD-00910,2024-09-11,CUST-0090,Priya Nair,South,Apparel,T-Shirt,11,384.39,49.69
+ORD-01047,2024-08-19,CUST-0012,Diya Gupta,North,Electronics,USB-C Hub,11,1147.37,204.21
+ORD-00202,2024-07-10,CUST-0112,Vihaan Bose,North,Electronics,Mechanical Keyboard,9,904.11,195.53
+ORD-00730,2024-08-25,CUST-0059,Rohan Menon,West,Office Supplies,Printer Paper,6,73.66,5.69
+ORD-01071,2024-02-04,CUST-0039,Rohan Chopra,North,Furniture,Filing Cabinet,2,310.66,0.44
+ORD-00800,2024-08-26,CUST-0012,Diya Gupta,North,Office Supplies,Notebook Pack,6,127.07,1.95
+ORD-00404,2024-08-02,CUST-0069,Ishaan Menon,East,Office Supplies,Stapler,8,164.91,9.12
+ORD-00900,2024-06-16,CUST-0022,Zara Iyer,West,Apparel,T-Shirt,3,75.87,4.59
+ORD-00880,2024-11-20,CUST-0017,Meera Menon,West,Furniture,Bookshelf,2,605.31,26.77
+ORD-00611,2024-10-27,CUST-0029,Zara Singh,West,Apparel,Cap,1,30.68,0.76
+ORD-00190,2024-02-10,CUST-0100,Arjun Verma,East,Office Supplies,Pen Set,7,61.35,2.74
+ORD-00333,2024-06-04,CUST-0104,Vivaan Mehta,South,Furniture,Bookshelf,2,422.81,17.91
+ORD-00304,2024-08-03,CUST-0033,Kiara Sharma,South,Apparel,T-Shirt,7,233.77,16.14
+ORD-00261,2024-09-23,CUST-0103,Tara Rao,East,Apparel,Cap,2,67.38,6.85
+ORD-00145,2024-12-18,CUST-0094,Vihaan Patel,South,Office Supplies,Printer Paper,440,98.57,30.73
+ORD-00829,2024-06-26,CUST-0011,Zara Gupta,East,Electronics,USB-C Hub,3,249.85,80.26
+ORD-00628,2024-06-23,CUST-0046,Aarav Kapoor,East,Office Supplies,Stapler,7,89.59,23.01
+ORD-00699,2024-04-26,CUST-0020,Diya Menon,North,Electronics,Mechanical Keyboard,3,253.68,30.33
+ORD-00284,2024-05-11,CUST-0007,Arjun Sharma,South,Furniture,Office Chair,5,641.65,43.71
+ORD-01039,2024-07-14,CUST-0111,Meera Kapoor,North,Apparel,Hoodie,7,177.49,37.27
+ORD-00012,2024-03-02,CUST-0073,Kabir Bose,West,Electronics,27in Monitor,6,291.1,63.44
+ORD-01007,2024-12-06,CUST-0068,Zara Verma,South,Furniture,Standing Desk,2,609.31,133.29
+ORD-00595,2024-01-18,CUST-0065,Meera Rao,West,Furniture,Filing Cabinet,10,1582.67,494.43
+ORD-00694,2024-05-14,CUST-0055,Rohan Gupta,South,Office Supplies,Stapler,8,161.39,2.83
+ORD-00532,2024-05-02,CUST-0032,Ishaan Nair,West,Office Supplies,Notebook Pack,2,40.6,5.71
+ORD-00470,2024-03-29,CUST-0085,Ishaan Bose,South,Furniture,Bookshelf,7,1372.7,-50.59
+ORD-00128,2024-03-13,CUST-0085,Ishaan Bose,West,Electronics,USB-C Hub,7,431.0,66.59
+ORD-00737,2024-10-11,CUST-0010,Vivaan Mehta,West,Office Supplies,Notebook Pack,5,80.83,5.12
+ORD-00907,2024-10-02,CUST-0067,Aarav Rao,East,Electronics,USB-C Hub,4,450.19,-8.24
+ORD-00058,2024-11-08,CUST-0113,Kiara Iyer,West,Apparel,Cap,11,469.02,101.49
+ORD-00034,2024-10-19,CUST-0011,Zara Gupta,West,Furniture,Standing Desk,9,1549.49,364.37
+ORD-00238,2024-08-17,CUST-0063,Meera Das,West,Electronics,27in Monitor,9,703.85,161.55
+ORD-01082,2024-03-19,CUST-0005,Aarav Gupta,East,Office Supplies,Printer Paper,6,74.58,0.01
+ORD-00283,2024-04-22,CUST-0030,Kabir Mehta,South,Furniture,Bookshelf,9,1797.52,267.49
+ORD-00587,2024-10-26,CUST-0100,Arjun Verma,North,Electronics,Webcam,4,240.62,10.81
+ORD-00363,2024-11-19,CUST-0064,Kiara Iyer,North,Electronics,USB-C Hub,10,1093.49,310.59
+ORD-00244,2024-11-12,CUST-0044,Kiara Chopra,East,Furniture,Filing Cabinet,10,2252.08,59.18
+ORD-00604,2024-05-28,CUST-0021,Kabir Nair,North,Office Supplies,Printer Paper,415,32.4,-0.37
+ORD-00093,2024-03-23,CUST-0089,Kiara Rao,East,Furniture,Standing Desk,4,453.99,37.43
+ORD-00211,2024-10-17,CUST-0001,Kiara Singh,South,Apparel,Cap,2,84.06,0.07
+ORD-00338,2024-10-17,CUST-0107,Aarav Patel,North,Electronics,Webcam,2,168.78,55.4
+ORD-00951,2024-06-30,CUST-0026,Aditya Mehta,North,Apparel,Cap,8,250.49,15.45
+ORD-00792,2024-07-31,CUST-0091,Tara Sharma,South,Furniture,Office Chair,10,1837.76,62.83
+ORD-00669,2024-10-25,CUST-0052,Saanvi Patel,East,Electronics,USB-C Hub,10,766.71,149.98
+ORD-00302,2024-01-24,CUST-0048,Priya Patel,South,Electronics,Webcam,2,177.15,54.03
+ORD-01001,2024-07-21,CUST-0050,Rohan Bose,South,Electronics,27in Monitor,11,797.94,28.21
+ORD-00086,2024-09-21,CUST-0022,Zara Iyer,West,Electronics,Mechanical Keyboard,11,594.29,49.31
+ORD-00191,2024-03-08,CUST-0119,Zara Rao,North,Apparel,Jacket,6,152.74,49.74
+ORD-00040,2024-02-17,CUST-0028,Vihaan Bose,West,Electronics,USB-C Hub,4,224.62,6.56
+ORD-00501,2024-02-25,CUST-0038,Kabir Sharma,,Apparel,Hoodie,9,162.53,1.66
+ORD-00624,2024-11-19,CUST-0031,Ananya Mehta,West,Electronics,USB-C Hub,3,233.3,-3.09
+ORD-01043,2024-02-06,CUST-0110,Arjun Mehta,North,Electronics,Webcam,8,669.0,-13.72
+ORD-00508,2024-05-13,CUST-0075,Meera Verma,North,Furniture,Bookshelf,6,1209.97,123.14
+ORD-00635,2024-04-05,CUST-0119,Zara Rao,West,Furniture,Office Chair,7,1461.22,72.78
+ORD-00765,2024-02-20,CUST-0095,Kabir Gupta,West,Furniture,Office Chair,2,387.07,63.95
+ORD-00823,2024-08-25,CUST-0021,Kabir Nair,South,Electronics,Wireless Mouse,7,415.5,8.98
+ORD-00517,2024-10-04,CUST-0002,Saanvi Bose,South,Electronics,Wireless Mouse,3,309.46,84.94
+ORD-00724,2024-07-15,CUST-0063,Meera Das,North,Electronics,Webcam,7,509.57,88.94
+ORD-00105,2024-09-26,CUST-0100,Arjun Verma,North,Electronics,Wireless Mouse,9,869.66,190.24
+ORD-00997,2024-01-12,CUST-0084,Aarav Iyer,West,Office Supplies,Printer Paper,7,86.51,27.47
+ORD-00234,2024-11-19,CUST-0101,Ishaan Menon,North,Furniture,Bookshelf,2,525.63,70.68
+ORD-00677,2024-10-03,CUST-0090,Priya Nair,South,Office Supplies,Notebook Pack,11,168.37,45.83
+ORD-00106,2024-05-16,CUST-0061,Kabir Singh,North,Apparel,Cap,3,93.02,6.66
+ORD-00342,2024-07-01,CUST-0058,Ishaan Reddy,East,Office Supplies,Printer Paper,7,112.13,-1.45
+ORD-00754,2024-04-24,CUST-0108,Ananya Das,South,Office Supplies,Notebook Pack,8,100.54,16.94
+ORD-00698,2024-10-30,CUST-0071,Aarav Das,East,Office Supplies,Printer Paper,10,208.17,71.46
+ORD-00903,2024-06-05,CUST-0079,Kiara Patel,West,Furniture,Filing Cabinet,7,1393.9,469.32
+ORD-00254,2024-08-16,CUST-0092,Kiara Bose,South,Apparel,Jacket,10,370.12,20.55
+ORD-00409,2024-08-11,CUST-0078,Rohan Bose,North,Electronics,Mechanical Keyboard,8,492.9,112.83
+ORD-00423,2024-02-21,CUST-0045,Tara Singh,South,Furniture,Bookshelf,10,2174.53,631.81
+ORD-00775,2024-03-22,CUST-0092,Kiara Bose,West,Apparel,Cap,4,135.76,7.27
+ORD-00209,2024-05-01,CUST-0004,Zara Nair,East,Furniture,Bookshelf,6,1267.26,-54.47
+ORD-00967,2024-02-06,CUST-0051,Saanvi Reddy,North,Electronics,Mechanical Keyboard,2,135.93,2.18
+ORD-00155,2024-12-29,CUST-0078,Rohan Bose,West,Office Supplies,Printer Paper,6,88.25,5.64
+ORD-00952,2024-05-05,CUST-0113,Kiara Iyer,South,Office Supplies,Notebook Pack,3,33.6,2.26
+ORD-00083,2024-11-19,CUST-0100,Arjun Verma,North,Apparel,Cap,6,272.33,30.29
+ORD-00498,2024-08-11,CUST-0004,Zara Nair,South,Office Supplies,Stapler,10,132.11,-3.59
+ORD-01081,2024-08-26,CUST-0080,Ananya Iyer,West,Furniture,Standing Desk,11,2714.36,909.68
+ORD-00584,2024-06-14,CUST-0041,Meera Gupta,West,Electronics,27in Monitor,10,718.71,185.06
+ORD-00964,2024-11-13,CUST-0054,Saanvi Reddy,North,Furniture,Office Chair,9,2100.87,-83.41
+ORD-00802,2024-07-16,CUST-0080,Ananya Iyer,West,Office Supplies,Printer Paper,8,129.9,18.76
+ORD-00088,2024-02-27,CUST-0071,Aarav Das,East,Furniture,Filing Cabinet,9,1680.29,10.85
+ORD-00065,2024-10-17,CUST-0092,Kiara Bose,South,Electronics,USB-C Hub,11,9312.22,215.69
+ORD-00271,2024-05-12,CUST-0055,Rohan Gupta,East,Office Supplies,Printer Paper,1,14.86,2.69
+ORD-00606,2024-06-29,CUST-0067,Aarav Rao,West,Electronics,Mechanical Keyboard,2,142.87,11.93
+ORD-00791,2024-01-12,CUST-0009,Aditya Kapoor,South,Apparel,Hoodie,3,112.12,15.63
+ORD-00275,2024-04-17,CUST-0053,Vivaan Sharma,South,Office Supplies,Stapler,1,19.27,6.25
+ORD-00405,2024-04-24,CUST-0087,Rohan Patel,South,Electronics,Webcam,2,125.74,39.97
+ORD-01054,2024-05-14,CUST-0034,Vivaan Iyer,North,Furniture,Standing Desk,11,1965.88,124.03
+ORD-00982,2024-05-27,CUST-0070,Kiara Nair,West,Furniture,Bookshelf,1,182.36,35.96
+ORD-00126,2024-10-26,CUST-0084,Aarav Iyer,East,Electronics,USB-C Hub,6,501.17,154.69
+ORD-00154,2024-10-21,CUST-0065,Meera Rao,West,Furniture,Filing Cabinet,2,510.47,121.25
+ORD-00614,2024-12-29,CUST-0027,Kiara Rao,North,Electronics,Wireless Mouse,8,714.28,177.61
+ORD-00872,2024-01-30,CUST-0110,Arjun Mehta,West,Furniture,Standing Desk,10,1784.17,0.66
+ORD-00968,2024-06-11,CUST-0021,Kabir Nair,West,Office Supplies,Stapler,10,168.16,44.43
+ORD-00411,2024-11-26,CUST-0063,Meera Das,West,Apparel,Hoodie,1,36.53,3.86
+ORD-00831,2024-03-25,CUST-0045,Tara Singh,East,Electronics,Mechanical Keyboard,5,403.76,44.04
+ORD-00889,2024-06-29,CUST-0113,Kiara Iyer,West,Electronics,Wireless Mouse,3,164.69,53.9
+ORD-01064,2024-12-29,CUST-0047,Kabir Verma,North,Apparel,Hoodie,3,89.18,6.54
+ORD-00999,2024-04-28,CUST-0081,Rohan Iyer,East,Apparel,Hoodie,2,43.95,12.05
+ORD-00913,2024-05-29,CUST-0075,Meera Verma,South,Apparel,Jacket,11,325.08,74.05
+ORD-00518,2024-01-11,CUST-0077,Kabir Menon,West,Electronics,Mechanical Keyboard,8,506.97,160.37
+ORD-00045,2024-05-19,CUST-0107,Aarav Patel,East,Furniture,Standing Desk,3,457.47,73.14
+ORD-00626,2024-06-29,CUST-0005,Aarav Gupta,West,Apparel,Hoodie,11,331.3,34.29
+ORD-00391,2024-06-09,CUST-0031,Ananya Mehta,West,Furniture,Standing Desk,8,1494.91,97.84
+ORD-00221,2024-02-18,CUST-0021,Kabir Nair,North,Furniture,Bookshelf,9,1459.65,478.93
+ORD-00141,2024-08-18,CUST-0008,Kabir Chopra,West,Apparel,Hoodie,7,197.43,5.96
+ORD-00350,2024-04-03,CUST-0118,Saanvi Iyer,North,Electronics,Wireless Mouse,4,372.72,-18.15
+ORD-00358,2024-04-30,CUST-0041,Meera Gupta,West,Apparel,T-Shirt,4,151.27,42.35
+ORD-00723,2024-10-27,CUST-0056,Priya Iyer,North,Electronics,USB-C Hub,9,774.71,-22.97
+ORD-00134,2024-10-08,CUST-0106,Saanvi Reddy,South,Office Supplies,Stapler,6,102.59,21.82
+ORD-00262,2024-06-05,CUST-0093,Rohan Mehta,North,Furniture,Bookshelf,5,1034.14,67.05
+ORD-00279,2024-01-21,CUST-0099,Vihaan Sharma,South,Electronics,Webcam,4,270.24,11.08
+ORD-00899,2024-09-11,CUST-0020,Diya Menon,East,Office Supplies,Stapler,8,137.3,11.6
+ORD-00080,2024-01-26,CUST-0069,Ishaan Menon,West,Office Supplies,Notebook Pack,7,111.5,8.86
+ORD-00196,2024-06-25,CUST-0091,Tara Sharma,South,Furniture,Bookshelf,5,1076.43,67.25
+ORD-00924,2024-03-23,CUST-0096,Kabir Kapoor,North,Apparel,Hoodie,1,27.42,9.59
+ORD-00116,2024-11-28,CUST-0107,Aarav Patel,East,Electronics,27in Monitor,1,86.75,29.0
+ORD-01009,2024-02-02,CUST-0074,Vivaan Singh,South,Apparel,Hoodie,6,227.16,34.65
+ORD-01031,2024-04-15,CUST-0083,Priya Patel,West,Furniture,Bookshelf,10,2354.31,417.37
+ORD-00886,2024-05-29,CUST-0118,Saanvi Iyer,South,Apparel,Jacket,4,130.35,-5.1
+ORD-00719,2024-02-11,CUST-0103,Tara Rao,South,Furniture,Office Chair,1,151.39,-3.22
+ORD-00381,2024-11-25,CUST-0088,Aarav Reddy,South,Office Supplies,Stapler,3,47.8,3.82
+ORD-01089,2024-02-08,CUST-0074,Vivaan Singh,West,Apparel,Hoodie,11,267.38,49.82
+ORD-00185,2024-05-14,CUST-0082,Vihaan Bose,North,Office Supplies,Stapler,5,102.67,17.86
+ORD-00980,2024-08-03,CUST-0080,Ananya Iyer,North,Electronics,27in Monitor,5,295.47,89.8
+ORD-00359,2024-02-24,CUST-0092,Kiara Bose,South,Office Supplies,Printer Paper,7,93.64,-0.67
+ORD-01078,2024-03-23,CUST-0101,Ishaan Menon,West,Furniture,Filing Cabinet,1,179.02,59.85
+ORD-00037,2024-05-05,CUST-0030,Kabir Mehta,South,Furniture,Bookshelf,5,941.63,85.71
+ORD-00859,2024-03-03,CUST-0093,Rohan Mehta,South,Apparel,T-Shirt,9,188.49,38.04
+ORD-00340,2024-03-28,CUST-0049,Tara Mehta,North,Furniture,Office Chair,10,1626.53,-39.02
+ORD-00488,2024-11-05,CUST-0094,Vihaan Patel,West,Furniture,Standing Desk,5,1404.34,166.5
+ORD-00936,2024-12-02,CUST-0059,Rohan Menon,West,Furniture,Filing Cabinet,11,2314.93,551.25
+ORD-00755,2024-03-11,CUST-0001,Kiara Singh,West,Apparel,T-Shirt,7,279.81,12.36
+ORD-00421,2024-03-08,CUST-0090,Priya Nair,North,Electronics,Mechanical Keyboard,7,657.45,91.19
+ORD-00150,2024-02-07,CUST-0098,Tara Reddy,North,Furniture,Bookshelf,9,1941.95,339.53
+ORD-00010,2024-12-09,CUST-0031,Ananya Mehta,West,Apparel,Hoodie,11,401.45,43.21
+ORD-00804,2024-11-15,CUST-0119,Zara Rao,South,Apparel,Cap,5,240.84,7.93
+ORD-00841,2024-01-10,CUST-0120,Zara Chopra,East,Office Supplies,Printer Paper,7,98.44,29.96
+ORD-00046,2024-11-19,CUST-0010,Vivaan Mehta,North,Office Supplies,Notebook Pack,11,194.0,14.05
+ORD-00914,2024-04-19,CUST-0047,Kabir Verma,North,Apparel,Jacket,9,271.19,-7.16
+ORD-00096,2024-06-12,CUST-0037,Tara Reddy,South,Electronics,Webcam,7,721.43,6.03
+ORD-01073,2024-09-14,CUST-0014,Kiara Rao,South,Office Supplies,Printer Paper,7,118.71,27.26
+ORD-00535,2024-03-04,CUST-0063,Meera Das,West,Apparel,Cap,1,31.91,-0.04
+ORD-00549,2024-02-21,CUST-0004,Zara Nair,West,Furniture,Bookshelf,4,887.34,210.62
+ORD-00561,2024-03-17,CUST-0086,Kiara Singh,North,Electronics,USB-C Hub,2,137.64,14.22
+ORD-00299,2024-03-09,CUST-0060,Ishaan Patel,South,Electronics,Mechanical Keyboard,11,484.18,32.94
+ORD-00977,2024-10-16,CUST-0058,Ishaan Reddy,South,Electronics,27in Monitor,2,152.61,-6.47
+ORD-00291,2024-09-06,CUST-0024,Vivaan Sharma,West,Apparel,Cap,10,443.93,19.23
+ORD-00416,2024-06-02,CUST-0016,Rohan Patel,North,Electronics,Webcam,4,292.92,89.78
+ORD-00314,2024-01-22,CUST-0002,Saanvi Bose,East,Furniture,Bookshelf,10,1886.38,-56.84
+ORD-00422,2024-09-10,CUST-0074,Vivaan Singh,East,Electronics,Webcam,11,1195.62,370.14
+ORD-00658,2024-08-08,CUST-0019,Tara Singh,North,Electronics,Webcam,5,425.98,12.04
+ORD-00123,2024-05-17,CUST-0116,Rohan Kapoor,West,Office Supplies,Pen Set,9,146.54,3.05
+ORD-00208,2024-08-24,CUST-0039,Rohan Chopra,East,Office Supplies,Notebook Pack,8,101.83,22.5
+ORD-01010,2024-10-08,CUST-0049,Tara Mehta,East,Apparel,Jacket,10,313.46,-15.52
+ORD-00362,2024-03-22,CUST-0090,Priya Nair,East,Furniture,Office Chair,11,2308.87,348.17
+ORD-00337,2024-11-23,CUST-0052,Saanvi Patel,East,Office Supplies,Pen Set,9,119.15,33.65
+ORD-00136,2024-08-28,CUST-0070,Kiara Nair,South,Apparel,Cap,9,308.22,73.35
+ORD-00064,2024-02-03,CUST-0010,Vivaan Mehta,North,Apparel,Jacket,2,52.83,11.86
+ORD-00828,2024-03-24,CUST-0053,Vivaan Sharma,East,Electronics,USB-C Hub,6,318.79,20.78
+ORD-00710,2024-04-02,CUST-0013,Tara Nair,North,Office Supplies,Notebook Pack,5,81.43,27.29
+ORD-01019,2024-05-16,CUST-0095,Kabir Gupta,South,Electronics,Webcam,3,254.72,71.05
+ORD-00770,2024-09-21,CUST-0034,Vivaan Iyer,East,Electronics,Mechanical Keyboard,8,581.46,59.96
+ORD-00652,2024-03-26,CUST-0056,Priya Iyer,South,Furniture,Office Chair,6,1374.44,51.51
+ORD-00368,2024-04-09,CUST-0019,Tara Singh,South,Office Supplies,Pen Set,2,34.05,4.9
+ORD-00089,2024-11-18,CUST-0092,Kiara Bose,West,Furniture,Bookshelf,9,1801.17,492.23
+ORD-00087,2024-09-12,CUST-0060,Ishaan Patel,South,Electronics,27in Monitor,11,810.47,15.0
+ORD-00620,2024-12-10,CUST-0057,Ishaan Chopra,North,Office Supplies,Pen Set,1,20.16,3.06
+ORD-00009,2024-02-10,CUST-0054,Saanvi Reddy,South,Furniture,Standing Desk,8,1093.88,-29.85
+ORD-00098,2024-03-18,CUST-0118,Saanvi Iyer,West,Electronics,Wireless Mouse,2,126.62,10.46
+ORD-00577,2024-09-24,CUST-0001,Kiara Singh,East,Office Supplies,Pen Set,1,15.97,-0.05
+ORD-00349,2024-08-14,CUST-0037,Tara Reddy,West,Electronics,Webcam,11,1021.79,96.05
+ORD-00510,2024-07-15,CUST-0012,Diya Gupta,West,Office Supplies,Printer Paper,11,237.72,69.86
+ORD-00212,2024-04-05,CUST-0030,Kabir Mehta,North,Apparel,Hoodie,4,132.95,-0.38
+ORD-00704,2024-07-27,CUST-0015,Kabir Mehta,South,Furniture,Standing Desk,2,325.59,7.59
+ORD-00946,2024-11-26,CUST-0116,Rohan Kapoor,East,Apparel,Hoodie,10,472.29,-4.22
+ORD-00747,2024-11-21,CUST-0087,Rohan Patel,East,Apparel,T-Shirt,3,101.22,8.21
+ORD-00022,2024-03-03,CUST-0053,Vivaan Sharma,East,Apparel,Hoodie,9,192.15,52.02
+ORD-00483,2024-09-18,CUST-0010,Vivaan Mehta,South,Furniture,Bookshelf,10,2505.98,320.95
+ORD-00571,2024-07-08,CUST-0029,Zara Singh,East,Furniture,Standing Desk,3,579.88,173.94
+ORD-00940,2024-04-24,CUST-0101,Ishaan Menon,West,Apparel,Cap,2,63.98,7.54
+ORD-00406,2024-11-15,CUST-0043,Aditya Mehta,South,Office Supplies,Pen Set,2,43.95,7.17
+ORD-00785,2024-10-16,CUST-0028,Vihaan Bose,North,Apparel,Jacket,1,34.16,2.21
+ORD-00888,2024-04-30,CUST-0081,Rohan Iyer,North,Office Supplies,Notebook Pack,1,19.02,0.02
+ORD-01080,2024-01-30,CUST-0042,Kiara Bose,West,Electronics,Wireless Mouse,10,747.72,217.73
+ORD-00256,2024-07-17,CUST-0087,Rohan Patel,South,Electronics,Mechanical Keyboard,6,643.66,210.27
+ORD-01036,2024-01-28,CUST-0057,Ishaan Chopra,North,Furniture,Standing Desk,11,1267.32,237.76
+ORD-00479,2024-12-07,CUST-0091,Tara Sharma,North,Electronics,27in Monitor,2,133.11,9.83
+ORD-00492,2024-07-12,CUST-0019,Tara Singh,East,Electronics,Wireless Mouse,1,102.97,18.24
+ORD-00842,2024-09-24,CUST-0087,Rohan Patel,South,Office Supplies,Printer Paper,4,62.19,4.73
+ORD-00365,2024-01-06,CUST-0103,Tara Rao,South,Furniture,Office Chair,8,931.33,-37.23
+ORD-00297,2024-01-21,CUST-0084,Aarav Iyer,North,Office Supplies,Pen Set,7,69.61,22.11
+ORD-00050,2024-01-21,CUST-0109,Zara Reddy,South,Furniture,Office Chair,5,680.5,4.55
+ORD-00225,2024-10-17,CUST-0056,Priya Iyer,South,Furniture,Filing Cabinet,10,2591.48,575.57
+ORD-00851,2024-06-09,CUST-0101,Ishaan Menon,West,Furniture,Filing Cabinet,6,1027.14,93.5
+ORD-00648,2024-11-24,CUST-0009,Aditya Kapoor,North,Apparel,Cap,4,93.84,9.69
+ORD-00563,2024-05-30,CUST-0039,Rohan Chopra,South,Office Supplies,Pen Set,1,17.61,0.99
+ORD-00623,2024-07-15,CUST-0113,Kiara Iyer,,Electronics,Wireless Mouse,8,831.07,25.42
+ORD-00805,2024-09-23,CUST-0095,Kabir Gupta,North,Apparel,Jacket,1,39.22,10.52
+ORD-00605,2024-11-25,CUST-0051,Saanvi Reddy,East,Furniture,Filing Cabinet,4,829.04,78.44
+ORD-00443,2024-02-24,CUST-0106,Saanvi Reddy,East,Apparel,Cap,9,222.21,69.31
+ORD-01057,2024-06-08,CUST-0099,Vihaan Sharma,East,Electronics,Wireless Mouse,5,363.7,-16.77
+ORD-01025,2024-05-25,CUST-0085,Ishaan Bose,West,Furniture,Standing Desk,4,533.6,4.15
+ORD-00540,2024-03-11,CUST-0015,Kabir Mehta,East,Electronics,27in Monitor,7,530.68,177.08
+ORD-00768,2024-03-14,CUST-0084,Aarav Iyer,East,Office Supplies,Stapler,10,168.13,58.77
+ORD-00763,2024-08-01,CUST-0105,Ishaan Bose,East,Electronics,Webcam,6,538.95,36.53
+ORD-00869,2024-05-02,CUST-0085,Ishaan Bose,North,Furniture,Filing Cabinet,9,2012.15,122.26
+ORD-00690,2024-06-17,CUST-0104,Vivaan Mehta,East,Furniture,Bookshelf,4,944.28,109.89
+ORD-00188,2024-04-03,CUST-0003,Rohan Kapoor,,Electronics,Mechanical Keyboard,7,604.42,
+ORD-00407,2024-08-15,CUST-0096,Kabir Kapoor,West,Electronics,27in Monitor,11,1196.98,335.94
+ORD-01012,2024-04-22,CUST-0065,Meera Rao,West,Electronics,Webcam,6,567.2,55.39
+ORD-00752,2024-06-16,CUST-0086,Kiara Singh,East,Furniture,Office Chair,6,1131.45,39.92
+ORD-01051,2024-11-09,CUST-0110,Arjun Mehta,North,Electronics,27in Monitor,9,589.72,103.91
+ORD-00462,2024-10-01,CUST-0087,Rohan Patel,West,Apparel,Jacket,11,342.49,35.5
+ORD-00671,2024-02-07,CUST-0089,Kiara Rao,South,Furniture,Filing Cabinet,2,346.54,1.15
+ORD-00656,2024-11-01,CUST-0063,Meera Das,East,Apparel,Hoodie,8,352.83,0.09
+ORD-00786,2024-07-27,CUST-0007,Arjun Sharma,West,Apparel,Jacket,11,285.41,-12.46
+ORD-00715,2024-07-22,CUST-0057,Ishaan Chopra,South,Apparel,Jacket,6,243.45,70.93
+ORD-00425,2024-07-29,CUST-0040,Saanvi Iyer,West,Furniture,Bookshelf,5,1085.85,191.75
+ORD-00044,2024-06-28,CUST-0018,Vihaan Kapoor,,Furniture,Office Chair,8,1523.05,315.79
+ORD-00662,2024-01-24,CUST-0087,Rohan Patel,North,Electronics,USB-C Hub,6,544.85,107.96
+ORD-00636,2024-10-08,CUST-0111,Meera Kapoor,North,Apparel,T-Shirt,2,82.58,23.36
+ORD-00529,2024-05-02,CUST-0026,Aditya Mehta,West,Furniture,Filing Cabinet,1,157.96,24.98
+ORD-00988,2024-08-06,CUST-0095,Kabir Gupta,East,Apparel,T-Shirt,7,224.51,8.86
+ORD-00219,2024-12-09,CUST-0032,Ishaan Nair,North,Apparel,T-Shirt,8,359.4,48.78
+ORD-00821,2024-02-21,CUST-0098,Tara Reddy,West,Furniture,Bookshelf,1,148.86,28.17
+ORD-01067,2024-12-28,CUST-0027,Kiara Rao,South,Electronics,27in Monitor,6,535.41,54.73
+ORD-01087,2024-05-18,CUST-0015,Kabir Mehta,North,Electronics,Webcam,1,50.22,-1.96
+ORD-00856,2024-03-25,CUST-0086,Kiara Singh,East,Furniture,Standing Desk,5,1086.44,176.54
+ORD-00610,2024-08-02,CUST-0027,Kiara Rao,West,Furniture,Office Chair,9,2410.01,457.56
+ORD-00486,2024-04-24,CUST-0117,Tara Chopra,West,Office Supplies,Notebook Pack,1,16.1,3.1
+ORD-01018,2024-06-11,CUST-0030,Kabir Mehta,East,Apparel,Hoodie,1,36.85,8.53
+ORD-00082,2024-06-09,CUST-0094,Vihaan Patel,East,Electronics,27in Monitor,6,317.43,62.75
+ORD-00325,2024-04-22,CUST-0089,Kiara Rao,West,Furniture,Standing Desk,4,800.53,224.02
+ORD-00020,2024-04-30,CUST-0095,Kabir Gupta,West,Electronics,Wireless Mouse,2,196.64,37.1
+ORD-00455,2024-07-02,CUST-0052,Saanvi Patel,West,Electronics,Mechanical Keyboard,9,869.81,303.44
+ORD-00839,2024-08-22,CUST-0042,Kiara Bose,West,Furniture,Bookshelf,3,827.91,28.72
+ORD-00759,2024-05-24,CUST-0117,Tara Chopra,East,Electronics,USB-C Hub,9,11201.02,73.51
+ORD-00035,2024-11-24,CUST-0104,Vivaan Mehta,South,Electronics,Mechanical Keyboard,10,755.01,130.72
+ORD-00809,2024-03-15,CUST-0005,Aarav Gupta,West,Apparel,Jacket,10,283.81,49.74
+ORD-00905,2024-04-16,CUST-0006,Ananya Bose,West,Office Supplies,Pen Set,5,93.33,24.25
+ORD-00801,2024-08-25,CUST-0098,Tara Reddy,North,Furniture,Office Chair,2,335.5,44.51
+ORD-00097,2024-06-02,CUST-0103,Tara Rao,South,Office Supplies,Pen Set,2,30.63,6.99
+ORD-00447,2024-04-29,CUST-0059,Rohan Menon,East,Apparel,Hoodie,11,296.48,90.92
+ORD-00475,2024-08-12,CUST-0056,Priya Iyer,South,Furniture,Standing Desk,1,275.46,36.83
+ORD-00367,2024-10-04,CUST-0113,Kiara Iyer,North,Furniture,Filing Cabinet,6,1660.46,255.15
+ORD-01090,2024-03-30,CUST-0101,Ishaan Menon,East,Office Supplies,Notebook Pack,3,42.32,6.97
+ORD-00761,2024-10-23,CUST-0050,Rohan Bose,East,Electronics,Wireless Mouse,9,828.88,124.58
+ORD-00919,2024-09-09,CUST-0078,Rohan Bose,South,Furniture,Bookshelf,3,817.31,189.35
+ORD-00760,2024-05-17,CUST-0049,Tara Mehta,North,Electronics,Wireless Mouse,5,374.15,112.29
+ORD-00393,2024-05-18,CUST-0081,Rohan Iyer,North,Apparel,Hoodie,5,109.54,31.78
+ORD-00507,2024-03-27,CUST-0048,Priya Patel,North,Electronics,USB-C Hub,7,679.56,237.67
+ORD-00435,2024-06-23,CUST-0024,Vivaan Sharma,North,Furniture,Standing Desk,9,1323.23,205.63
+ORD-00649,2024-10-30,CUST-0101,Ishaan Menon,East,Furniture,Bookshelf,4,849.49,224.53
+ORD-00943,2024-07-11,CUST-0032,Ishaan Nair,East,Office Supplies,Pen Set,7,136.58,0.46
+ORD-00050,2024-01-21,CUST-0109,Zara Reddy,South,Furniture,Office Chair,5,680.5,4.55
+ORD-00133,2024-05-23,CUST-0040,Saanvi Iyer,East,Furniture,Office Chair,1,184.76,-7.88
+ORD-01075,2024-07-30,CUST-0047,Kabir Verma,East,Apparel,T-Shirt,5,177.13,-8.23
+ORD-00973,2024-06-16,CUST-0026,Aditya Mehta,West,Electronics,Mechanical Keyboard,1,55.46,4.54
+ORD-00451,2024-10-18,CUST-0109,Zara Reddy,East,Office Supplies,Notebook Pack,10,223.25,75.35
+ORD-00032,2024-06-01,CUST-0035,Kiara Das,East,Furniture,Office Chair,5,871.38,89.03
+ORD-00122,2024-08-09,CUST-0015,Kabir Mehta,North,Office Supplies,Notebook Pack,10,142.79,0.23
+ORD-00256,2024-07-17,CUST-0087,Rohan Patel,South,Electronics,Mechanical Keyboard,6,643.66,210.27
+ORD-00893,2024-11-23,CUST-0088,Aarav Reddy,West,Office Supplies,Printer Paper,5,61.51,-2.97
+ORD-00360,2024-08-14,CUST-0025,Kabir Sharma,North,Furniture,Office Chair,10,2558.14,-80.8
+ORD-00052,2024-12-11,CUST-0027,Kiara Rao,West,Furniture,Filing Cabinet,1,211.86,3.39
+ORD-00876,2024-09-04,CUST-0100,Arjun Verma,North,Electronics,Webcam,5,557.54,52.42
+ORD-00939,2024-08-03,CUST-0116,Rohan Kapoor,North,Electronics,27in Monitor,1,69.93,8.66
+ORD-00773,2024-08-08,CUST-0055,Rohan Gupta,South,Electronics,Webcam,7,563.55,-18.0
+ORD-00680,2024-05-17,CUST-0036,Arjun Nair,West,Office Supplies,Printer Paper,3,40.86,2.69
+ORD-00806,2024-01-15,CUST-0003,Rohan Kapoor,West,Furniture,Office Chair,5,1057.44,-5.18
+ORD-00125,2024-12-25,CUST-0043,Aditya Mehta,South,Furniture,Filing Cabinet,6,1158.75,147.26
+ORD-00405,2024-04-24,CUST-0087,Rohan Patel,South,Electronics,Webcam,2,125.74,39.97
+ORD-00731,2024-08-21,CUST-0081,Rohan Iyer,East,Electronics,Mechanical Keyboard,11,802.14,83.95
+ORD-00832,2024-07-15,CUST-0089,Kiara Rao,West,Electronics,Mechanical Keyboard,8,857.32,62.23
+ORD-01072,2024-01-03,CUST-0014,Kiara Rao,North,Electronics,Mechanical Keyboard,11,777.63,7.19
+ORD-00726,2024-08-13,CUST-0117,Tara Chopra,South,Furniture,Standing Desk,5,861.67,104.7
+ORD-00588,2024-03-13,CUST-0066,Diya Nair,West,Office Supplies,Stapler,6,100.3,25.53
+ORD-00608,2024-04-21,CUST-0023,Zara Singh,,Office Supplies,Notebook Pack,4,40.59,10.06
+ORD-00434,2024-02-25,CUST-0092,Kiara Bose,East,Office Supplies,Printer Paper,1,13.61,1.93
+ORD-00675,2024-05-24,CUST-0070,Kiara Nair,South,Furniture,Office Chair,5,990.63,66.16
+ORD-00361,2024-05-28,CUST-0017,Meera Menon,East,Office Supplies,Stapler,2,34.07,7.69
+ORD-01100,2024-05-05,CUST-0053,Vivaan Sharma,North,Furniture,Filing Cabinet,3,427.27,85.83
+ORD-00467,2024-10-28,CUST-0030,Kabir Mehta,West,Office Supplies,Stapler,6,121.8,25.22
+ORD-00300,2024-04-27,CUST-0108,Ananya Das,North,Apparel,Cap,11,320.92,2.32
+ORD-00494,2024-02-29,CUST-0101,Ishaan Menon,South,Furniture,Standing Desk,11,2159.53,617.69
+ORD-00528,2024-02-03,CUST-0065,Meera Rao,North,Apparel,Jacket,11,272.67,47.02
