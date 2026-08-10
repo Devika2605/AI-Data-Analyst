@@ -216,8 +216,20 @@ automatically from the project root).
 
 ## Screenshots
 
-See `docs/screenshots/` — add your own screenshots here before submission
-(chat view, dashboard, data quality, anomaly detection).
+<img width="1536" height="846" alt="image" src="https://github.com/user-attachments/assets/9da19412-fa17-48c8-aa5b-573232ff0ce6" />
+
+<img width="1532" height="830" alt="image" src="https://github.com/user-attachments/assets/63699d2a-1ef1-4d51-b412-2df01aaa4aa8" />
+
+<img width="1533" height="821" alt="image" src="https://github.com/user-attachments/assets/d8c9ead2-b4d1-453b-80e2-ea4f1ba30136" />
+
+<img width="1532" height="831" alt="image" src="https://github.com/user-attachments/assets/04d3eebe-9c4d-4314-868d-08b600272dee" />
+
+<img width="1530" height="827" alt="image" src="https://github.com/user-attachments/assets/8ef3f300-4189-43dd-93d9-dbb1913f6d1a" />
+
+<img width="1536" height="826" alt="image" src="https://github.com/user-attachments/assets/c3e2b175-2d83-44f2-9b40-47c53f080898" />
+
+<img width="1533" height="821" alt="image" src="https://github.com/user-attachments/assets/c6dc9b9b-2535-4cc5-8d8a-c29b2906451c" />
+
 
 ## Demo Video
 
